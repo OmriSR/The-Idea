@@ -24,7 +24,7 @@ from my_transformers import TableToEmbedding
 RECORD_EXTRA_INFO_PREFIX = ("medical data collected for the purpose of classifying hepatitis patients into survival and non-survival categories."
                             "These attributes are both categorical and numerical, providing a diverse set of features for analysis.")
 
-def get_X_and_y(describe_data:bool = False) -> tuple[pd.DataFrame,pd.Series]:
+def get_hepatitis_X_y(describe_data:bool = False) -> tuple[pd.DataFrame,pd.Series]:
     # fetch dataset 
     hepatitis = fetch_ucirepo(id=46) 
 

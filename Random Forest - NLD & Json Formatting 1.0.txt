@@ -1,0 +1,25 @@
+{
+  "New Titanic": [
+    {
+      "Json": [
+        "{\"model params\": {\"bootstrap\": false, \"max_depth\": 5, \"max_features\": \"log2\", \"min_samples_leaf\": 1, \"min_samples_split\": 3, \"n_estimators\": 137}, \"num of component\": null, \"best training score\": 0.7935326029145836, \"accurcy\": 0.7988888888888889, \"f1\": 0.734168970814132}",
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 9, \"max_features\": \"sqrt\", \"min_samples_leaf\": 4, \"min_samples_split\": 2, \"n_estimators\": 285}, \"num of component\": 11, \"best training score\": 0.7963750901204364, \"accurcy\": 0.7652380952380953, \"f1\": 0.7215122034476874}",
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 6, \"max_features\": \"sqrt\", \"min_samples_leaf\": 4, \"min_samples_split\": 7, \"n_estimators\": 291}, \"num of component\": 22, \"best training score\": 0.8020068787008475, \"accurcy\": 0.7822222222222223, \"f1\": 0.7317913495889024}"
+      ]
+    },
+    {
+      "Natural Language Description": [
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 8, \"max_features\": \"log2\", \"min_samples_leaf\": 2, \"min_samples_split\": 4, \"n_estimators\": 177}, \"num of component\": null, \"best training score\": 0.8005590421822738, \"accurcy\": 0.7706349206349207, \"f1\": 0.699957671957672}",
+        "{\"model params\": {\"bootstrap\": false, \"max_depth\": 14, \"max_features\": \"log2\", \"min_samples_leaf\": 3, \"min_samples_split\": 3, \"n_estimators\": 180}, \"num of component\": 11, \"best training score\": 0.7935680601354466, \"accurcy\": 0.7484126984126984, \"f1\": 0.6603161110874995}",
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 9, \"max_features\": \"sqrt\", \"min_samples_leaf\": 3, \"min_samples_split\": 4, \"n_estimators\": 78}, \"num of component\": 22, \"best training score\": 0.8019773310167949, \"accurcy\": 0.7484126984126984, \"f1\": 0.6430792048144662}"
+      ]
+    },
+    {
+      "Hybrid": [
+        "{\"model params\": {\"bootstrap\": false, \"max_depth\": 14, \"max_features\": \"log2\", \"min_samples_leaf\": 3, \"min_samples_split\": 3, \"n_estimators\": 180}, \"num of component\": null, \"best training score\": 0.8033601626304531, \"accurcy\": 0.7876190476190477, \"f1\": 0.6946666666666668}",
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 5, \"max_features\": \"log2\", \"min_samples_leaf\": 1, \"min_samples_split\": 5, \"n_estimators\": 99}, \"num of component\": 11, \"best training score\": 0.7963514519731943, \"accurcy\": 0.7314285714285714, \"f1\": 0.6605194805194805}",
+        "{\"model params\": {\"bootstrap\": true, \"max_depth\": 8, \"max_features\": \"sqrt\", \"min_samples_leaf\": 3, \"min_samples_split\": 5, \"n_estimators\": 236}, \"num of component\": 22, \"best training score\": 0.7991703010318051, \"accurcy\": 0.7541269841269841, \"f1\": 0.6865185185185185}"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,9 @@
 import pandas as pd
+import os
+import sys
+
+
+
 from sklearn import svm
 from sklearn.model_selection import (
     train_test_split,
@@ -6,7 +11,13 @@ from sklearn.model_selection import (
 )
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelEncoder
-
+# Get the directory of the current file
+current_dir = os.path.dirname(os.path.abspath(__file__))
+# Get the Thesis directory
+thesis_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
+# Add the Thesis directory to the system path
+sys.path.append(thesis_dir)
+from compare_pipeline.main import load_and_split_data
 from my_transformers import TableToEmbedding
 
 RECORD_EXTRA_INFO_PREFIX = (
@@ -121,8 +132,9 @@ def run_separated_encoding_for_prefix_flow(use_expended_col_names:bool = False,
 def run_brca_full_flow(
     add_informative_prefix: bool = False,
     use_expanded: bool = False,
+    use_textual_numbers:bool = False
 ):
-    X,y = load_and_split_data("brca\\brca.csv")
+    X,y = load_and_split_data("brca\\brca.csv","y")
     X.drop(labels= "Unnamed: 0",axis=1,inplace=True)
     
     label_encoder = LabelEncoder()
@@ -131,8 +143,9 @@ def run_brca_full_flow(
 
     # transform tabular dataset to embeddings metrix and the target to binary (Benign = 0, Malignant = 1)
     table_to_embedding = TableToEmbedding(
-        add_informative_prefix,
-        use_expanded,
+        expended_col_names_mapper=COLUMN_NAME_TO_EXPANDED_NAME_MAPPER if use_expanded else None,
+        prefix=add_informative_prefix,
+        use_textual_numbers=use_textual_numbers
     )
     X_embeddings = table_to_embedding.fit_transform(X)
 
@@ -163,18 +176,8 @@ def run_brca_full_flow(
     best_model = grid_search.best_estimator_
 
     y_pred = best_model.predict(X_test)
-
-    print(
-        f"###### with {'' if add_informative_prefix  else 'out'} informative prefix and"
-        f" with {'' if use_expanded else 'out'} expanded column names ######"
-    )
+    
+    print(f"use_textual_numbers: {use_textual_numbers}, use_expanded: {use_expanded}, add_informative_prefix: {add_informative_prefix} ")
     print(classification_report(y_test, y_pred))
 
-def load_and_split_data(file_path: str, target_column: str) -> tuple[pd.DataFrame, pd.Series]:
-    df = pd.read_csv(file_path)
-    y = df[target_column]
-    X = df.drop(
-        labels=[target_column],
-        axis=1,
-    )
-    return X,y
+

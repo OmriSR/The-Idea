@@ -7,6 +7,9 @@ from sentence_transformers import (
     SentenceTransformer,
 )
 import inflect
+import json
+
+from sklearn.decomposition import PCA
 
 MODEL = "sentence-transformers/paraphrase-MiniLM-L6-v2"
 
@@ -21,6 +24,20 @@ def get_textual_sample_by_params(
     text_sample = f"{expended_col_names_mapper[col_name] if expended_col_names_mapper else col_name}:{num_2_word.number_to_words(row[col_name]) if text_nums else row[col_name]}"
     return (prefix + text_sample) if prefix else text_sample
 
+def transform_to_json(
+        df: pd.DataFrame, 
+        expended_col_names_mapper: dict,
+        num_2_word: inflect.engine,
+        text_nums: bool
+    ):
+    return [json.dumps(
+            {
+                expended_col_names_mapper[col] 
+                if expended_col_names_mapper is not None else col : 
+                str(value) 
+                if text_nums is False else num_2_word.number_to_words(value) for col, value in row.items()
+            }
+        ) for _, row in df.iterrows()]
 
 class TableToText(
     BaseEstimator,
@@ -52,22 +69,28 @@ class TableToText(
     def transform(self, X: pd.DataFrame):
         X_copy: pd.DataFrame = X.copy()
 
-        X_textual = [
-            " ".join(
-                [
-                    get_textual_sample_by_params(
-                        expended_col_names_mapper=self.expended_col_names_mapper,
-                        prefix=self.prefix,
-                        text_nums=self.use_textual_numbers,
-                        col_name=col,
-                        row=row,
-                        num_2_word=self.textual_number_converter,
-                    )
-                    for col in X_copy.columns
-                ]
-            )
-            for _, row in X_copy.iterrows()
-        ]
+        # X_textual = [
+        #     " ".join(
+        #         [
+        #             get_textual_sample_by_params(
+        #                 expended_col_names_mapper=self.expended_col_names_mapper,
+        #                 prefix=self.prefix,
+        #                 text_nums=self.use_textual_numbers,
+        #                 col_name=col,
+        #                 row=row,
+        #                 num_2_word=self.textual_number_converter,
+        #             )
+        #             for col in X_copy.columns
+        #         ]
+        #     )
+        #     for _, row in X_copy.iterrows()
+        # ]
+        X_textual = transform_to_json(
+            df=X_copy,
+            expended_col_names_mapper=self.expended_col_names_mapper,
+            num_2_word=self.textual_number_converter,
+            text_nums=self.use_textual_numbers
+        )
 
         return X_textual
 
@@ -92,7 +115,10 @@ class TableToEmbedding(BaseEstimator,TransformerMixin):
     def transform(self, X: pd.DataFrame) -> list:
         X_copy: pd.DataFrame = X.copy()
 
+        # transform the table to a list of jsons
         textual_records_list = self.table_to_text.transform(X_copy)
+        
+        # create an embedding of each json sample
         embeddings = self.sentence_transformer.encode(textual_records_list)
 
         return embeddings
