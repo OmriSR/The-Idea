@@ -1,0 +1,891 @@
+Braund, Mr. Owen Harris, a 22-year-old male traveling in third class with 1 sibling who paid $7.25 for their ticket and embarked from Southampton.
+Cumings, Mrs. John Bradley (Florence Briggs Thayer), a 38-year-old female traveling in first class with 1 sibling who paid $71.28 for their ticket and embarked from Cherbourg.
+Heikkinen, Miss. Laina, a 26-year-old female traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Futrelle, Mrs. Jacques Heath (Lily May Peel), a 35-year-old female traveling in first class with 1 sibling who paid $53.10 for their ticket and embarked from Southampton.
+Allen, Mr. William Henry, a 35-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Moran, Mr. James, a  male traveling in third class who paid $8.46 for their ticket and embarked from Queenstown.
+McCarthy, Mr. Timothy J, a 54-year-old male traveling in first class who paid $51.86 for their ticket and embarked from Southampton.
+Palsson, Master. Gosta Leonard, a 2-year-old male traveling in third class with 3 siblings and 1 parent who paid $21.07 for their ticket and embarked from Southampton.
+Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg), a 27-year-old female traveling in third class with 2 parents who paid $11.13 for their ticket and embarked from Southampton.
+Nasser, Mrs. Nicholas (Adele Achem), a 14-year-old female traveling in second class with 1 sibling who paid $30.07 for their ticket and embarked from Cherbourg.
+Sandstrom, Miss. Marguerite Rut, a 4-year-old female traveling in third class with 1 sibling and 1 parent who paid $16.70 for their ticket and embarked from Southampton.
+Bonnell, Miss. Elizabeth, a 58-year-old female traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Saundercock, Mr. William Henry, a 20-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Andersson, Mr. Anders Johan, a 39-year-old male traveling in third class with 1 sibling and 5 parents who paid $31.27 for their ticket and embarked from Southampton.
+Vestrom, Miss. Hulda Amanda Adolfina, a 14-year-old female traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Hewlett, Mrs. (Mary D Kingcome) , a 55-year-old female traveling in second class who paid $16.00 for their ticket and embarked from Southampton.
+Rice, Master. Eugene, a 2-year-old male traveling in third class with 4 siblings and 1 parent who paid $29.12 for their ticket and embarked from Queenstown.
+Williams, Mr. Charles Eugene, a  male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele), a 31-year-old female traveling in third class with 1 sibling who paid $18.00 for their ticket and embarked from Southampton.
+Masselmani, Mrs. Fatima, a  female traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Fynney, Mr. Joseph J, a 35-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Beesley, Mr. Lawrence, a 34-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+McGowan, Miss. Anna "Annie", a 15-year-old female traveling in third class who paid $8.03 for their ticket and embarked from Queenstown.
+Sloper, Mr. William Thompson, a 28-year-old male traveling in first class who paid $35.50 for their ticket and embarked from Southampton.
+Palsson, Miss. Torborg Danira, a 8-year-old female traveling in third class with 3 siblings and 1 parent who paid $21.07 for their ticket and embarked from Southampton.
+Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson), a 38-year-old female traveling in third class with 1 sibling and 5 parents who paid $31.39 for their ticket and embarked from Southampton.
+Emir, Mr. Farred Chehab, a  male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Fortune, Mr. Charles Alexander, a 19-year-old male traveling in first class with 3 siblings and 2 parents who paid $263.00 for their ticket and embarked from Southampton.
+O'Dwyer, Miss. Ellen "Nellie", a  female traveling in third class who paid $7.88 for their ticket and embarked from Queenstown.
+Todoroff, Mr. Lalio, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Uruchurtu, Don. Manuel E, a 40-year-old male traveling in first class who paid $27.72 for their ticket and embarked from Cherbourg.
+Spencer, Mrs. William Augustus (Marie Eugenie), a  female traveling in first class with 1 sibling who paid $146.52 for their ticket and embarked from Cherbourg.
+Glynn, Miss. Mary Agatha, a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Wheadon, Mr. Edward H, a 66-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Meyer, Mr. Edgar Joseph, a 28-year-old male traveling in first class with 1 sibling who paid $82.17 for their ticket and embarked from Cherbourg.
+Holverson, Mr. Alexander Oskar, a 42-year-old male traveling in first class with 1 sibling who paid $52.00 for their ticket and embarked from Southampton.
+Mamee, Mr. Hanna, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Cann, Mr. Ernest Charles, a 21-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Vander Planke, Miss. Augusta Maria, a 18-year-old female traveling in third class with 2 siblings who paid $18.00 for their ticket and embarked from Southampton.
+Nicola-Yarred, Miss. Jamila, a 14-year-old female traveling in third class with 1 sibling who paid $11.24 for their ticket and embarked from Cherbourg.
+Ahlin, Mrs. Johan (Johanna Persdotter Larsson), a 40-year-old female traveling in third class with 1 sibling who paid $9.47 for their ticket and embarked from Southampton.
+Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott), a 27-year-old female traveling in second class with 1 sibling who paid $21.00 for their ticket and embarked from Southampton.
+Kraeff, Mr. Theodor, a  male traveling in third class who paid $7.90 for their ticket and embarked from Cherbourg.
+Laroche, Miss. Simonne Marie Anne Andree, a 3-year-old female traveling in second class with 1 sibling and 2 parents who paid $41.58 for their ticket and embarked from Cherbourg.
+Devaney, Miss. Margaret Delia, a 19-year-old female traveling in third class who paid $7.88 for their ticket and embarked from Queenstown.
+Rogers, Mr. William John, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Lennon, Mr. Denis, a  male traveling in third class with 1 sibling who paid $15.50 for their ticket and embarked from Queenstown.
+O'Driscoll, Miss. Bridget, a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Samaan, Mr. Youssef, a  male traveling in third class with 2 siblings who paid $21.68 for their ticket and embarked from Cherbourg.
+Arnold-Franchi, Mrs. Josef (Josefine Franchi), a 18-year-old female traveling in third class with 1 sibling who paid $17.80 for their ticket and embarked from Southampton.
+Panula, Master. Juha Niilo, a 7-year-old male traveling in third class with 4 siblings and 1 parent who paid $39.69 for their ticket and embarked from Southampton.
+Nosworthy, Mr. Richard Cater, a 21-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Harper, Mrs. Henry Sleeper (Myna Haxtun), a 49-year-old female traveling in first class with 1 sibling who paid $76.73 for their ticket and embarked from Cherbourg.
+Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson), a 29-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Ostby, Mr. Engelhart Cornelius, a 65-year-old male traveling in first class with 1 parent who paid $61.98 for their ticket and embarked from Cherbourg.
+Woolner, Mr. Hugh, a  male traveling in first class who paid $35.50 for their ticket and embarked from Southampton.
+Rugg, Miss. Emily, a 21-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Novel, Mr. Mansouer, a 28-year-old male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+West, Miss. Constance Mirium, a 5-year-old female traveling in second class with 1 sibling and 2 parents who paid $27.75 for their ticket and embarked from Southampton.
+Goodwin, Master. William Frederick, a 11-year-old male traveling in third class with 5 siblings and 2 parents who paid $46.90 for their ticket and embarked from Southampton.
+Sirayanian, Mr. Orsen, a 22-year-old male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Icard, Miss. Amelie, a 38-year-old female traveling in first class who paid $80.00 for their ticket.
+Harris, Mr. Henry Birkhardt, a 45-year-old male traveling in first class with 1 sibling who paid $83.47 for their ticket and embarked from Southampton.
+Skoog, Master. Harald, a 4-year-old male traveling in third class with 3 siblings and 2 parents who paid $27.90 for their ticket and embarked from Southampton.
+Stewart, Mr. Albert A, a  male traveling in first class who paid $27.72 for their ticket and embarked from Cherbourg.
+Moubarek, Master. Gerios, a  male traveling in third class with 1 sibling and 1 parent who paid $15.25 for their ticket and embarked from Cherbourg.
+Nye, Mrs. (Elizabeth Ramell), a 29-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Crease, Mr. Ernest James, a 19-year-old male traveling in third class who paid $8.16 for their ticket and embarked from Southampton.
+Andersson, Miss. Erna Alexandra, a 17-year-old female traveling in third class with 4 siblings and 2 parents who paid $7.92 for their ticket and embarked from Southampton.
+Kink, Mr. Vincenz, a 26-year-old male traveling in third class with 2 siblings who paid $8.66 for their ticket and embarked from Southampton.
+Jenkin, Mr. Stephen Curnow, a 32-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Goodwin, Miss. Lillian Amy, a 16-year-old female traveling in third class with 5 siblings and 2 parents who paid $46.90 for their ticket and embarked from Southampton.
+Hood, Mr. Ambrose Jr, a 21-year-old male traveling in second class who paid $73.50 for their ticket and embarked from Southampton.
+Chronopoulos, Mr. Apostolos, a 26-year-old male traveling in third class with 1 sibling who paid $14.45 for their ticket and embarked from Cherbourg.
+Bing, Mr. Lee, a 32-year-old male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Moen, Mr. Sigurd Hansen, a 25-year-old male traveling in third class who paid $7.65 for their ticket and embarked from Southampton.
+Staneff, Mr. Ivan, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Moutal, Mr. Rahamin Haim, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Caldwell, Master. Alden Gates, a 0-year-old male traveling in second class with 2 parents who paid $29.00 for their ticket and embarked from Southampton.
+Dowdell, Miss. Elizabeth, a 30-year-old female traveling in third class who paid $12.47 for their ticket and embarked from Southampton.
+Waelens, Mr. Achille, a 22-year-old male traveling in third class who paid $9.00 for their ticket and embarked from Southampton.
+Sheerlinck, Mr. Jan Baptist, a 29-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+McDermott, Miss. Brigdet Delia, a  female traveling in third class who paid $7.79 for their ticket and embarked from Queenstown.
+Carrau, Mr. Francisco M, a 28-year-old male traveling in first class who paid $47.10 for their ticket and embarked from Southampton.
+Ilett, Miss. Bertha, a 17-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson), a 33-year-old female traveling in third class with 3 siblings who paid $15.85 for their ticket and embarked from Southampton.
+Ford, Mr. William Neal, a 16-year-old male traveling in third class with 1 sibling and 3 parents who paid $34.38 for their ticket and embarked from Southampton.
+Slocovski, Mr. Selman Francis, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Fortune, Miss. Mabel Helen, a 23-year-old female traveling in first class with 3 siblings and 2 parents who paid $263.00 for their ticket and embarked from Southampton.
+Celotti, Mr. Francesco, a 24-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Christmann, Mr. Emil, a 29-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Andreasson, Mr. Paul Edvin, a 20-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Chaffee, Mr. Herbert Fuller, a 46-year-old male traveling in first class with 1 sibling who paid $61.17 for their ticket and embarked from Southampton.
+Dean, Mr. Bertram Frank, a 26-year-old male traveling in third class with 1 sibling and 2 parents who paid $20.57 for their ticket and embarked from Southampton.
+Coxon, Mr. Daniel, a 59-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Shorney, Mr. Charles Joseph, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Goldschmidt, Mr. George B, a 71-year-old male traveling in first class who paid $34.65 for their ticket and embarked from Cherbourg.
+Greenfield, Mr. William Bertram, a 23-year-old male traveling in first class with 1 parent who paid $63.36 for their ticket and embarked from Cherbourg.
+Doling, Mrs. John T (Ada Julia Bone), a 34-year-old female traveling in second class with 1 parent who paid $23.00 for their ticket and embarked from Southampton.
+Kantor, Mr. Sinai, a 34-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Petranec, Miss. Matilda, a 28-year-old female traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Petroff, Mr. Pastcho ("Pentcho"), a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+White, Mr. Richard Frasar, a 21-year-old male traveling in first class with 1 parent who paid $77.29 for their ticket and embarked from Southampton.
+Johansson, Mr. Gustaf Joel, a 33-year-old male traveling in third class who paid $8.65 for their ticket and embarked from Southampton.
+Gustafsson, Mr. Anders Vilhelm, a 37-year-old male traveling in third class with 2 siblings who paid $7.92 for their ticket and embarked from Southampton.
+Mionoff, Mr. Stoytcho, a 28-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Salkjelsvik, Miss. Anna Kristine, a 21-year-old female traveling in third class who paid $7.65 for their ticket and embarked from Southampton.
+Moss, Mr. Albert Johan, a  male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Rekic, Mr. Tido, a 38-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Moran, Miss. Bertha, a  female traveling in third class with 1 sibling who paid $24.15 for their ticket and embarked from Queenstown.
+Porter, Mr. Walter Chamberlain, a 47-year-old male traveling in first class who paid $52.00 for their ticket and embarked from Southampton.
+Zabour, Miss. Hileni, a 14-year-old female traveling in third class with 1 sibling who paid $14.45 for their ticket and embarked from Cherbourg.
+Barton, Mr. David John, a 22-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Jussila, Miss. Katriina, a 20-year-old female traveling in third class with 1 sibling who paid $9.82 for their ticket and embarked from Southampton.
+Attalah, Miss. Malake, a 17-year-old female traveling in third class who paid $14.46 for their ticket and embarked from Cherbourg.
+Pekoniemi, Mr. Edvard, a 21-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Connors, Mr. Patrick, a 70-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Turpin, Mr. William John Robert, a 29-year-old male traveling in second class with 1 sibling who paid $21.00 for their ticket and embarked from Southampton.
+Baxter, Mr. Quigg Edmond, a 24-year-old male traveling in first class with 1 parent who paid $247.52 for their ticket and embarked from Cherbourg.
+Andersson, Miss. Ellis Anna Maria, a 2-year-old female traveling in third class with 4 siblings and 2 parents who paid $31.27 for their ticket and embarked from Southampton.
+Hickman, Mr. Stanley George, a 21-year-old male traveling in second class with 2 siblings who paid $73.50 for their ticket and embarked from Southampton.
+Moore, Mr. Leonard Charles, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Nasser, Mr. Nicholas, a 32-year-old male traveling in second class with 1 sibling who paid $30.07 for their ticket and embarked from Cherbourg.
+Webber, Miss. Susan, a 32-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+White, Mr. Percival Wayland, a 54-year-old male traveling in first class with 1 parent who paid $77.29 for their ticket and embarked from Southampton.
+Nicola-Yarred, Master. Elias, a 12-year-old male traveling in third class with 1 sibling who paid $11.24 for their ticket and embarked from Cherbourg.
+McMahon, Mr. Martin, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Madsen, Mr. Fridtjof Arne, a 24-year-old male traveling in third class who paid $7.14 for their ticket and embarked from Southampton.
+Peter, Miss. Anna, a  female traveling in third class with 1 sibling and 1 parent who paid $22.36 for their ticket and embarked from Cherbourg.
+Ekstrom, Mr. Johan, a 45-year-old male traveling in third class who paid $6.97 for their ticket and embarked from Southampton.
+Drazenoic, Mr. Jozef, a 33-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Cherbourg.
+Coelho, Mr. Domingos Fernandeo, a 20-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Robins, Mrs. Alexander A (Grace Charity Laury), a 47-year-old female traveling in third class with 1 sibling who paid $14.50 for their ticket and embarked from Southampton.
+Weisz, Mrs. Leopold (Mathilde Francoise Pede), a 29-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Sobey, Mr. Samuel James Hayden, a 25-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Richard, Mr. Emile, a 23-year-old male traveling in second class who paid $15.05 for their ticket and embarked from Cherbourg.
+Newsom, Miss. Helen Monypeny, a 19-year-old female traveling in first class with 2 parents who paid $26.28 for their ticket and embarked from Southampton.
+Futrelle, Mr. Jacques Heath, a 37-year-old male traveling in first class with 1 sibling who paid $53.10 for their ticket and embarked from Southampton.
+Osen, Mr. Olaf Elon, a 16-year-old male traveling in third class who paid $9.22 for their ticket and embarked from Southampton.
+Giglio, Mr. Victor, a 24-year-old male traveling in first class who paid $79.20 for their ticket and embarked from Cherbourg.
+Boulos, Mrs. Joseph (Sultana), a  female traveling in third class with 2 parents who paid $15.25 for their ticket and embarked from Cherbourg.
+Nysten, Miss. Anna Sofia, a 22-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Southampton.
+Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck), a 24-year-old female traveling in third class with 1 sibling who paid $15.85 for their ticket and embarked from Southampton.
+Burke, Mr. Jeremiah, a 19-year-old male traveling in third class who paid $6.75 for their ticket and embarked from Queenstown.
+Andrew, Mr. Edgardo Samuel, a 18-year-old male traveling in second class who paid $11.50 for their ticket and embarked from Southampton.
+Nicholls, Mr. Joseph Charles, a 19-year-old male traveling in second class with 1 sibling and 1 parent who paid $36.75 for their ticket and embarked from Southampton.
+Andersson, Mr. August Edvard ("Wennerstrom"), a 27-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Ford, Miss. Robina Maggie "Ruby", a 9-year-old female traveling in third class with 2 siblings and 2 parents who paid $34.38 for their ticket and embarked from Southampton.
+Navratil, Mr. Michel ("Louis M Hoffman"), a 36-year-old male traveling in second class with 2 parents who paid $26.00 for their ticket and embarked from Southampton.
+Byles, Rev. Thomas Roussel Davids, a 42-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Bateman, Rev. Robert James, a 51-year-old male traveling in second class who paid $12.53 for their ticket and embarked from Southampton.
+Pears, Mrs. Thomas (Edith Wearne), a 22-year-old female traveling in first class with 1 sibling who paid $66.60 for their ticket and embarked from Southampton.
+Meo, Mr. Alfonzo, a 55-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+van Billiard, Mr. Austin Blyler, a 40-year-old male traveling in third class with 2 parents who paid $14.50 for their ticket and embarked from Southampton.
+Olsen, Mr. Ole Martin, a  male traveling in third class who paid $7.31 for their ticket and embarked from Southampton.
+Williams, Mr. Charles Duane, a 51-year-old male traveling in first class with 1 parent who paid $61.38 for their ticket and embarked from Cherbourg.
+Gilnagh, Miss. Katherine "Katie", a 16-year-old female traveling in third class who paid $7.73 for their ticket and embarked from Queenstown.
+Corn, Mr. Harry, a 30-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Smiljanic, Mr. Mile, a  male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Sage, Master. Thomas Henry, a  male traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Cribb, Mr. John Hatfield, a 44-year-old male traveling in third class with 1 parent who paid $16.10 for their ticket and embarked from Southampton.
+Watt, Mrs. James (Elizabeth "Bessie" Inglis Milne), a 40-year-old female traveling in second class who paid $15.75 for their ticket and embarked from Southampton.
+Bengtsson, Mr. John Viktor, a 26-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Calic, Mr. Jovo, a 17-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Panula, Master. Eino Viljami, a 1-year-old male traveling in third class with 4 siblings and 1 parent who paid $39.69 for their ticket and embarked from Southampton.
+Goldsmith, Master. Frank John William "Frankie", a 9-year-old male traveling in third class with 2 parents who paid $20.52 for their ticket and embarked from Southampton.
+Chibnall, Mrs. (Edith Martha Bowerman), a  female traveling in first class with 1 parent who paid $55.00 for their ticket and embarked from Southampton.
+Skoog, Mrs. William (Anna Bernhardina Karlsson), a 45-year-old female traveling in third class with 1 sibling and 4 parents who paid $27.90 for their ticket and embarked from Southampton.
+Baumann, Mr. John D, a  male traveling in first class who paid $25.93 for their ticket and embarked from Southampton.
+Ling, Mr. Lee, a 28-year-old male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Van der hoef, Mr. Wyckoff, a 61-year-old male traveling in first class who paid $33.50 for their ticket and embarked from Southampton.
+Rice, Master. Arthur, a 4-year-old male traveling in third class with 4 siblings and 1 parent who paid $29.12 for their ticket and embarked from Queenstown.
+Johnson, Miss. Eleanor Ileen, a 1-year-old female traveling in third class with 1 sibling and 1 parent who paid $11.13 for their ticket and embarked from Southampton.
+Sivola, Mr. Antti Wilhelm, a 21-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Smith, Mr. James Clinch, a 56-year-old male traveling in first class who paid $30.70 for their ticket and embarked from Cherbourg.
+Klasen, Mr. Klas Albin, a 18-year-old male traveling in third class with 1 sibling and 1 parent who paid $7.85 for their ticket and embarked from Southampton.
+Lefebre, Master. Henry Forbes, a  male traveling in third class with 3 siblings and 1 parent who paid $25.47 for their ticket and embarked from Southampton.
+Isham, Miss. Ann Elizabeth, a 50-year-old female traveling in first class who paid $28.71 for their ticket and embarked from Cherbourg.
+Hale, Mr. Reginald, a 30-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Leonard, Mr. Lionel, a 36-year-old male traveling in third class who paid $0.00 for their ticket and embarked from Southampton.
+Sage, Miss. Constance Gladys, a  female traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Pernot, Mr. Rene, a  male traveling in second class who paid $15.05 for their ticket and embarked from Cherbourg.
+Asplund, Master. Clarence Gustaf Hugo, a 9-year-old male traveling in third class with 4 siblings and 2 parents who paid $31.39 for their ticket and embarked from Southampton.
+Becker, Master. Richard F, a 1-year-old male traveling in second class with 2 siblings and 1 parent who paid $39.00 for their ticket and embarked from Southampton.
+Kink-Heilmann, Miss. Luise Gretchen, a 4-year-old female traveling in third class with 2 parents who paid $22.02 for their ticket and embarked from Southampton.
+Rood, Mr. Hugh Roscoe, a  male traveling in first class who paid $50.00 for their ticket and embarked from Southampton.
+O'Brien, Mrs. Thomas (Johanna "Hannah" Godfrey), a  female traveling in third class with 1 sibling who paid $15.50 for their ticket and embarked from Queenstown.
+Romaine, Mr. Charles Hallace ("Mr C Rolmane"), a 45-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Bourke, Mr. John, a 40-year-old male traveling in third class with 1 sibling and 1 parent who paid $15.50 for their ticket and embarked from Queenstown.
+Turcin, Mr. Stjepan, a 36-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Pinsky, Mrs. (Rosa), a 32-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Carbines, Mr. William, a 19-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Andersen-Jensen, Miss. Carla Christine Nielsine, a 19-year-old female traveling in third class with 1 sibling who paid $7.85 for their ticket and embarked from Southampton.
+Navratil, Master. Michel M, a 3-year-old male traveling in second class with 1 sibling and 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Brown, Mrs. James Joseph (Margaret Tobin), a 44-year-old female traveling in first class who paid $27.72 for their ticket and embarked from Cherbourg.
+Lurette, Miss. Elise, a 58-year-old female traveling in first class who paid $146.52 for their ticket and embarked from Cherbourg.
+Mernagh, Mr. Robert, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Olsen, Mr. Karl Siegwart Andreas, a 42-year-old male traveling in third class with 1 parent who paid $8.40 for their ticket and embarked from Southampton.
+Madigan, Miss. Margaret "Maggie", a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Yrois, Miss. Henriette ("Mrs Harbeck"), a 24-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Vande Walle, Mr. Nestor Cyriel, a 28-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Sage, Mr. Frederick, a  male traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Johanson, Mr. Jakob Alfred, a 34-year-old male traveling in third class who paid $6.50 for their ticket and embarked from Southampton.
+Youseff, Mr. Gerious, a 45-year-old male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Cohen, Mr. Gurshon "Gus", a 18-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Strom, Miss. Telma Matilda, a 2-year-old female traveling in third class with 1 parent who paid $10.46 for their ticket and embarked from Southampton.
+Backstrom, Mr. Karl Alfred, a 32-year-old male traveling in third class with 1 sibling who paid $15.85 for their ticket and embarked from Southampton.
+Albimona, Mr. Nassef Cassem, a 26-year-old male traveling in third class who paid $18.79 for their ticket and embarked from Cherbourg.
+Carr, Miss. Helen "Ellen", a 16-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Blank, Mr. Henry, a 40-year-old male traveling in first class who paid $31.00 for their ticket and embarked from Cherbourg.
+Ali, Mr. Ahmed, a 24-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Cameron, Miss. Clear Annie, a 35-year-old female traveling in second class who paid $21.00 for their ticket and embarked from Southampton.
+Perkin, Mr. John Henry, a 22-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Givard, Mr. Hans Kristensen, a 30-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Kiernan, Mr. Philip, a  male traveling in third class with 1 sibling who paid $7.75 for their ticket and embarked from Queenstown.
+Newell, Miss. Madeleine, a 31-year-old female traveling in first class with 1 sibling who paid $113.28 for their ticket and embarked from Cherbourg.
+Honkanen, Miss. Eliina, a 27-year-old female traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Jacobsohn, Mr. Sidney Samuel, a 42-year-old male traveling in second class with 1 sibling who paid $27.00 for their ticket and embarked from Southampton.
+Bazzani, Miss. Albina, a 32-year-old female traveling in first class who paid $76.29 for their ticket and embarked from Cherbourg.
+Harris, Mr. Walter, a 30-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Sunderland, Mr. Victor Francis, a 16-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Bracken, Mr. James H, a 27-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Green, Mr. George Henry, a 51-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Nenkoff, Mr. Christo, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Hoyt, Mr. Frederick Maxfield, a 38-year-old male traveling in first class with 1 sibling who paid $90.00 for their ticket and embarked from Southampton.
+Berglund, Mr. Karl Ivar Sven, a 22-year-old male traveling in third class who paid $9.35 for their ticket and embarked from Southampton.
+Mellors, Mr. William John, a 19-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Lovell, Mr. John Hall ("Henry"), a 20-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Fahlstrom, Mr. Arne Jonas, a 18-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Lefebre, Miss. Mathilde, a  female traveling in third class with 3 siblings and 1 parent who paid $25.47 for their ticket and embarked from Southampton.
+Harris, Mrs. Henry Birkhardt (Irene Wallach), a 35-year-old female traveling in first class with 1 sibling who paid $83.47 for their ticket and embarked from Southampton.
+Larsson, Mr. Bengt Edvin, a 29-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Sjostedt, Mr. Ernst Adolf, a 59-year-old male traveling in second class who paid $13.50 for their ticket and embarked from Southampton.
+Asplund, Miss. Lillian Gertrud, a 5-year-old female traveling in third class with 4 siblings and 2 parents who paid $31.39 for their ticket and embarked from Southampton.
+Leyson, Mr. Robert William Norman, a 24-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Harknett, Miss. Alice Phoebe, a  female traveling in third class who paid $7.55 for their ticket and embarked from Southampton.
+Hold, Mr. Stephen, a 44-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Collyer, Miss. Marjorie "Lottie", a 8-year-old female traveling in second class with 2 parents who paid $26.25 for their ticket and embarked from Southampton.
+Pengelly, Mr. Frederick William, a 19-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Hunt, Mr. George Henry, a 33-year-old male traveling in second class who paid $12.28 for their ticket and embarked from Southampton.
+Zabour, Miss. Thamine, a  female traveling in third class with 1 sibling who paid $14.45 for their ticket and embarked from Cherbourg.
+Murphy, Miss. Katherine "Kate", a  female traveling in third class with 1 sibling who paid $15.50 for their ticket and embarked from Queenstown.
+Coleridge, Mr. Reginald Charles, a 29-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Maenpaa, Mr. Matti Alexanteri, a 22-year-old male traveling in third class who paid $7.12 for their ticket and embarked from Southampton.
+Attalah, Mr. Sleiman, a 30-year-old male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Minahan, Dr. William Edward, a 44-year-old male traveling in first class with 2 siblings who paid $90.00 for their ticket and embarked from Queenstown.
+Lindahl, Miss. Agda Thorilda Viktoria, a 25-year-old female traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Hamalainen, Mrs. William (Anna), a 24-year-old female traveling in second class with 2 parents who paid $14.50 for their ticket and embarked from Southampton.
+Beckwith, Mr. Richard Leonard, a 37-year-old male traveling in first class with 1 sibling and 1 parent who paid $52.55 for their ticket and embarked from Southampton.
+Carter, Rev. Ernest Courtenay, a 54-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Reed, Mr. James George, a  male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Strom, Mrs. Wilhelm (Elna Matilda Persson), a 29-year-old female traveling in third class with 1 sibling and 1 parent who paid $10.46 for their ticket and embarked from Southampton.
+Stead, Mr. William Thomas, a 62-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Lobb, Mr. William Arthur, a 30-year-old male traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Rosblom, Mrs. Viktor (Helena Wilhelmina), a 41-year-old female traveling in third class with 2 parents who paid $20.21 for their ticket and embarked from Southampton.
+Touma, Mrs. Darwis (Hanne Youssef Razi), a 29-year-old female traveling in third class with 2 parents who paid $15.25 for their ticket and embarked from Cherbourg.
+Thorne, Mrs. Gertrude Maybelle, a  female traveling in first class who paid $79.20 for their ticket and embarked from Cherbourg.
+Cherry, Miss. Gladys, a 30-year-old female traveling in first class who paid $86.50 for their ticket and embarked from Southampton.
+Ward, Miss. Anna, a 35-year-old female traveling in first class who paid $512.33 for their ticket and embarked from Cherbourg.
+Parrish, Mrs. (Lutie Davis), a 50-year-old female traveling in second class with 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Smith, Mr. Thomas, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Asplund, Master. Edvin Rojj Felix, a 3-year-old male traveling in third class with 4 siblings and 2 parents who paid $31.39 for their ticket and embarked from Southampton.
+Taussig, Mr. Emil, a 52-year-old male traveling in first class with 1 sibling and 1 parent who paid $79.65 for their ticket and embarked from Southampton.
+Harrison, Mr. William, a 40-year-old male traveling in first class who paid $0.00 for their ticket and embarked from Southampton.
+Henry, Miss. Delia, a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Reeves, Mr. David, a 36-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Panula, Mr. Ernesti Arvid, a 16-year-old male traveling in third class with 4 siblings and 1 parent who paid $39.69 for their ticket and embarked from Southampton.
+Persson, Mr. Ernst Ulrik, a 25-year-old male traveling in third class with 1 sibling who paid $7.78 for their ticket and embarked from Southampton.
+Graham, Mrs. William Thompson (Edith Junkins), a 58-year-old female traveling in first class with 1 parent who paid $153.46 for their ticket and embarked from Southampton.
+Bissette, Miss. Amelia, a 35-year-old female traveling in first class who paid $135.63 for their ticket and embarked from Southampton.
+Cairns, Mr. Alexander, a  male traveling in first class who paid $31.00 for their ticket and embarked from Southampton.
+Tornquist, Mr. William Henry, a 25-year-old male traveling in third class who paid $0.00 for their ticket and embarked from Southampton.
+Mellinger, Mrs. (Elizabeth Anne Maidment), a 41-year-old female traveling in second class with 1 parent who paid $19.50 for their ticket and embarked from Southampton.
+Natsch, Mr. Charles H, a 37-year-old male traveling in first class with 1 parent who paid $29.70 for their ticket and embarked from Cherbourg.
+Healy, Miss. Hanora "Nora", a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Andrews, Miss. Kornelia Theodosia, a 63-year-old female traveling in first class with 1 sibling who paid $77.96 for their ticket and embarked from Southampton.
+Lindblom, Miss. Augusta Charlotta, a 45-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Southampton.
+Parkes, Mr. Francis "Frank", a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Rice, Master. Eric, a 7-year-old male traveling in third class with 4 siblings and 1 parent who paid $29.12 for their ticket and embarked from Queenstown.
+Abbott, Mrs. Stanton (Rosa Hunt), a 35-year-old female traveling in third class with 1 sibling and 1 parent who paid $20.25 for their ticket and embarked from Southampton.
+Duane, Mr. Frank, a 65-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Olsson, Mr. Nils Johan Goransson, a 28-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+de Pelsmaeker, Mr. Alfons, a 16-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Dorking, Mr. Edward Arthur, a 19-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Smith, Mr. Richard William, a  male traveling in first class who paid $26.00 for their ticket and embarked from Southampton.
+Stankovic, Mr. Ivan, a 33-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Cherbourg.
+de Mulder, Mr. Theodore, a 30-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Naidenoff, Mr. Penko, a 22-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Hosono, Mr. Masabumi, a 42-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Connolly, Miss. Kate, a 22-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Barber, Miss. Ellen "Nellie", a 26-year-old female traveling in first class who paid $78.85 for their ticket and embarked from Southampton.
+Bishop, Mrs. Dickinson H (Helen Walton), a 19-year-old female traveling in first class with 1 sibling who paid $91.08 for their ticket and embarked from Cherbourg.
+Levy, Mr. Rene Jacques, a 36-year-old male traveling in second class who paid $12.88 for their ticket and embarked from Cherbourg.
+Haas, Miss. Aloisia, a 24-year-old female traveling in third class who paid $8.85 for their ticket and embarked from Southampton.
+Mineff, Mr. Ivan, a 24-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Lewy, Mr. Ervin G, a  male traveling in first class who paid $27.72 for their ticket and embarked from Cherbourg.
+Hanna, Mr. Mansour, a 23-year-old male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Allison, Miss. Helen Loraine, a 2-year-old female traveling in first class with 1 sibling and 2 parents who paid $151.55 for their ticket and embarked from Southampton.
+Saalfeld, Mr. Adolphe, a  male traveling in first class who paid $30.50 for their ticket and embarked from Southampton.
+Baxter, Mrs. James (Helene DeLaudeniere Chaput), a 50-year-old female traveling in first class with 1 parent who paid $247.52 for their ticket and embarked from Cherbourg.
+Kelly, Miss. Anna Katherine "Annie Kate", a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+McCoy, Mr. Bernard, a  male traveling in third class with 2 siblings who paid $23.25 for their ticket and embarked from Queenstown.
+Johnson, Mr. William Cahoone Jr, a 19-year-old male traveling in third class who paid $0.00 for their ticket and embarked from Southampton.
+Keane, Miss. Nora A, a  female traveling in second class who paid $12.35 for their ticket and embarked from Queenstown.
+Williams, Mr. Howard Hugh "Harry", a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Allison, Master. Hudson Trevor, a 0-year-old male traveling in first class with 1 sibling and 2 parents who paid $151.55 for their ticket and embarked from Southampton.
+Fleming, Miss. Margaret, a  female traveling in first class who paid $110.88 for their ticket and embarked from Cherbourg.
+Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo), a 17-year-old female traveling in first class with 1 sibling who paid $108.90 for their ticket and embarked from Cherbourg.
+Abelson, Mr. Samuel, a 30-year-old male traveling in second class with 1 sibling who paid $24.00 for their ticket and embarked from Cherbourg.
+Francatelli, Miss. Laura Mabel, a 30-year-old female traveling in first class who paid $56.93 for their ticket and embarked from Cherbourg.
+Hays, Miss. Margaret Bechstein, a 24-year-old female traveling in first class who paid $83.16 for their ticket and embarked from Cherbourg.
+Ryerson, Miss. Emily Borie, a 18-year-old female traveling in first class with 2 siblings and 2 parents who paid $262.38 for their ticket and embarked from Cherbourg.
+Lahtinen, Mrs. William (Anna Sylfven), a 26-year-old female traveling in second class with 1 sibling and 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Hendekovic, Mr. Ignjac, a 28-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Hart, Mr. Benjamin, a 43-year-old male traveling in second class with 1 sibling and 1 parent who paid $26.25 for their ticket and embarked from Southampton.
+Nilsson, Miss. Helmina Josefina, a 26-year-old female traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Kantor, Mrs. Sinai (Miriam Sternin), a 24-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Moraweck, Dr. Ernest, a 54-year-old male traveling in second class who paid $14.00 for their ticket and embarked from Southampton.
+Wick, Miss. Mary Natalie, a 31-year-old female traveling in first class with 2 parents who paid $164.87 for their ticket and embarked from Southampton.
+Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone), a 40-year-old female traveling in first class with 1 sibling and 1 parent who paid $134.50 for their ticket and embarked from Cherbourg.
+Dennis, Mr. Samuel, a 22-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Danoff, Mr. Yoto, a 27-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Slayter, Miss. Hilda Mary, a 30-year-old female traveling in second class who paid $12.35 for their ticket and embarked from Queenstown.
+Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh), a 22-year-old female traveling in second class with 1 sibling and 1 parent who paid $29.00 for their ticket and embarked from Southampton.
+Sage, Mr. George John Jr, a  male traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Young, Miss. Marie Grice, a 36-year-old female traveling in first class who paid $135.63 for their ticket and embarked from Cherbourg.
+Nysveen, Mr. Johan Hansen, a 61-year-old male traveling in third class who paid $6.24 for their ticket and embarked from Southampton.
+Ball, Mrs. (Ada E Hall), a 36-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Goldsmith, Mrs. Frank John (Emily Alice Brown), a 31-year-old female traveling in third class with 1 sibling and 1 parent who paid $20.52 for their ticket and embarked from Southampton.
+Hippach, Miss. Jean Gertrude, a 16-year-old female traveling in first class with 1 parent who paid $57.98 for their ticket and embarked from Cherbourg.
+McCoy, Miss. Agnes, a  female traveling in third class with 2 siblings who paid $23.25 for their ticket and embarked from Queenstown.
+Partner, Mr. Austen, a 45-year-old male traveling in first class who paid $28.50 for their ticket and embarked from Southampton.
+Graham, Mr. George Edward, a 38-year-old male traveling in first class with 1 parent who paid $153.46 for their ticket and embarked from Southampton.
+Vander Planke, Mr. Leo Edmondus, a 16-year-old male traveling in third class with 2 siblings who paid $18.00 for their ticket and embarked from Southampton.
+Frauenthal, Mrs. Henry William (Clara Heinsheimer), a  female traveling in first class with 1 sibling who paid $133.65 for their ticket and embarked from Southampton.
+Denkoff, Mr. Mitto, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Pears, Mr. Thomas Clinton, a 29-year-old male traveling in first class with 1 sibling who paid $66.60 for their ticket and embarked from Southampton.
+Burns, Miss. Elizabeth Margaret, a 41-year-old female traveling in first class who paid $134.50 for their ticket and embarked from Cherbourg.
+Dahl, Mr. Karl Edwart, a 45-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Blackwell, Mr. Stephen Weart, a 45-year-old male traveling in first class who paid $35.50 for their ticket and embarked from Southampton.
+Navratil, Master. Edmond Roger, a 2-year-old male traveling in second class with 1 sibling and 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Fortune, Miss. Alice Elizabeth, a 24-year-old female traveling in first class with 3 siblings and 2 parents who paid $263.00 for their ticket and embarked from Southampton.
+Collander, Mr. Erik Gustaf, a 28-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Sedgwick, Mr. Charles Frederick Waddington, a 25-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Fox, Mr. Stanley Hubert, a 36-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Brown, Miss. Amelia "Mildred", a 24-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Smith, Miss. Marion Elsie, a 40-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Davison, Mrs. Thomas Henry (Mary E Finck), a  female traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Coutts, Master. William Loch "William", a 3-year-old male traveling in third class with 1 sibling and 1 parent who paid $15.90 for their ticket and embarked from Southampton.
+Dimic, Mr. Jovan, a 42-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Odahl, Mr. Nils Martin, a 23-year-old male traveling in third class who paid $9.22 for their ticket and embarked from Southampton.
+Williams-Lambert, Mr. Fletcher Fellows, a  male traveling in first class who paid $35.00 for their ticket and embarked from Southampton.
+Elias, Mr. Tannous, a 15-year-old male traveling in third class with 1 sibling and 1 parent who paid $7.23 for their ticket and embarked from Cherbourg.
+Arnold-Franchi, Mr. Josef, a 25-year-old male traveling in third class with 1 sibling who paid $17.80 for their ticket and embarked from Southampton.
+Yousif, Mr. Wazli, a  male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Vanden Steen, Mr. Leo Peter, a 28-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Bowerman, Miss. Elsie Edith, a 22-year-old female traveling in first class with 1 parent who paid $55.00 for their ticket and embarked from Southampton.
+Funk, Miss. Annie Clemmer, a 38-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+McGovern, Miss. Mary, a  female traveling in third class who paid $7.88 for their ticket and embarked from Queenstown.
+Mockler, Miss. Helen Mary "Ellie", a  female traveling in third class who paid $7.88 for their ticket and embarked from Queenstown.
+Skoog, Mr. Wilhelm, a 40-year-old male traveling in third class with 1 sibling and 4 parents who paid $27.90 for their ticket and embarked from Southampton.
+del Carlo, Mr. Sebastiano, a 29-year-old male traveling in second class with 1 sibling who paid $27.72 for their ticket and embarked from Cherbourg.
+Barbara, Mrs. (Catherine David), a 45-year-old female traveling in third class with 1 parent who paid $14.45 for their ticket and embarked from Cherbourg.
+Asim, Mr. Adola, a 35-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+O'Brien, Mr. Thomas, a  male traveling in third class with 1 sibling who paid $15.50 for their ticket and embarked from Queenstown.
+Adahl, Mr. Mauritz Nils Martin, a 30-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Warren, Mrs. Frank Manley (Anna Sophia Atkinson), a 60-year-old female traveling in first class with 1 sibling who paid $75.25 for their ticket and embarked from Cherbourg.
+Moussa, Mrs. (Mantoura Boulos), a  female traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Jermyn, Miss. Annie, a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Aubart, Mme. Leontine Pauline, a 24-year-old female traveling in first class who paid $69.30 for their ticket and embarked from Cherbourg.
+Harder, Mr. George Achilles, a 25-year-old male traveling in first class with 1 sibling who paid $55.44 for their ticket and embarked from Cherbourg.
+Wiklund, Mr. Jakob Alfred, a 18-year-old male traveling in third class with 1 sibling who paid $6.50 for their ticket and embarked from Southampton.
+Beavan, Mr. William Thomas, a 19-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Ringhini, Mr. Sante, a 22-year-old male traveling in first class who paid $135.63 for their ticket and embarked from Cherbourg.
+Palsson, Miss. Stina Viola, a 3-year-old female traveling in third class with 3 siblings and 1 parent who paid $21.07 for their ticket and embarked from Southampton.
+Meyer, Mrs. Edgar Joseph (Leila Saks), a  female traveling in first class with 1 sibling who paid $82.17 for their ticket and embarked from Cherbourg.
+Landergren, Miss. Aurora Adelia, a 22-year-old female traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Widener, Mr. Harry Elkins, a 27-year-old male traveling in first class with 2 parents who paid $211.50 for their ticket and embarked from Cherbourg.
+Betros, Mr. Tannous, a 20-year-old male traveling in third class who paid $4.01 for their ticket and embarked from Cherbourg.
+Gustafsson, Mr. Karl Gideon, a 19-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Bidois, Miss. Rosalie, a 42-year-old female traveling in first class who paid $227.53 for their ticket and embarked from Cherbourg.
+Nakid, Miss. Maria ("Mary"), a 1-year-old female traveling in third class with 2 parents who paid $15.74 for their ticket and embarked from Cherbourg.
+Tikkanen, Mr. Juho, a 32-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Holverson, Mrs. Alexander Oskar (Mary Aline Towner), a 35-year-old female traveling in first class with 1 sibling who paid $52.00 for their ticket and embarked from Southampton.
+Plotcharsky, Mr. Vasil, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Davies, Mr. Charles Henry, a 18-year-old male traveling in second class who paid $73.50 for their ticket and embarked from Southampton.
+Goodwin, Master. Sidney Leonard, a 1-year-old male traveling in third class with 5 siblings and 2 parents who paid $46.90 for their ticket and embarked from Southampton.
+Buss, Miss. Kate, a 36-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Sadlier, Mr. Matthew, a  male traveling in third class who paid $7.73 for their ticket and embarked from Queenstown.
+Lehmann, Miss. Bertha, a 17-year-old female traveling in second class who paid $12.00 for their ticket and embarked from Cherbourg.
+Carter, Mr. William Ernest, a 36-year-old male traveling in first class with 1 sibling and 2 parents who paid $120.00 for their ticket and embarked from Southampton.
+Jansson, Mr. Carl Olof, a 21-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Gustafsson, Mr. Johan Birger, a 28-year-old male traveling in third class with 2 siblings who paid $7.92 for their ticket and embarked from Southampton.
+Newell, Miss. Marjorie, a 23-year-old female traveling in first class with 1 sibling who paid $113.28 for their ticket and embarked from Cherbourg.
+Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson), a 24-year-old female traveling in third class with 2 parents who paid $16.70 for their ticket and embarked from Southampton.
+Johansson, Mr. Erik, a 22-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Olsson, Miss. Elina, a 31-year-old female traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+McKane, Mr. Peter David, a 46-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Pain, Dr. Alfred, a 23-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Trout, Mrs. William H (Jessie L), a 28-year-old female traveling in second class who paid $12.65 for their ticket and embarked from Southampton.
+Niskanen, Mr. Juha, a 39-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Adams, Mr. John, a 26-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Jussila, Miss. Mari Aina, a 21-year-old female traveling in third class with 1 sibling who paid $9.82 for their ticket and embarked from Southampton.
+Hakkarainen, Mr. Pekka Pietari, a 28-year-old male traveling in third class with 1 sibling who paid $15.85 for their ticket and embarked from Southampton.
+Oreskovic, Miss. Marija, a 20-year-old female traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Gale, Mr. Shadrach, a 34-year-old male traveling in second class with 1 sibling who paid $21.00 for their ticket and embarked from Southampton.
+Widegren, Mr. Carl/Charles Peter, a 51-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Southampton.
+Richards, Master. William Rowe, a 3-year-old male traveling in second class with 1 sibling and 1 parent who paid $18.75 for their ticket and embarked from Southampton.
+Birkeland, Mr. Hans Martin Monsen, a 21-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Lefebre, Miss. Ida, a  female traveling in third class with 3 siblings and 1 parent who paid $25.47 for their ticket and embarked from Southampton.
+Sdycoff, Mr. Todor, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Hart, Mr. Henry, a  male traveling in third class who paid $6.86 for their ticket and embarked from Queenstown.
+Minahan, Miss. Daisy E, a 33-year-old female traveling in first class with 1 sibling who paid $90.00 for their ticket and embarked from Queenstown.
+Cunningham, Mr. Alfred Fleming, a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Sundman, Mr. Johan Julian, a 44-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Meek, Mrs. Thomas (Annie Louise Rowley), a  female traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Drew, Mrs. James Vivian (Lulu Thorne Christian), a 34-year-old female traveling in second class with 1 sibling and 1 parent who paid $32.50 for their ticket and embarked from Southampton.
+Silven, Miss. Lyyli Karoliina, a 18-year-old female traveling in second class with 2 parents who paid $13.00 for their ticket and embarked from Southampton.
+Matthews, Mr. William John, a 30-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Van Impe, Miss. Catharina, a 10-year-old female traveling in third class with 2 parents who paid $24.15 for their ticket and embarked from Southampton.
+Gheorgheff, Mr. Stanio, a  male traveling in third class who paid $7.90 for their ticket and embarked from Cherbourg.
+Charters, Mr. David, a 21-year-old male traveling in third class who paid $7.73 for their ticket and embarked from Queenstown.
+Zimmerman, Mr. Leo, a 29-year-old male traveling in third class who paid $7.88 for their ticket and embarked from Southampton.
+Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren), a 28-year-old female traveling in third class with 1 sibling and 1 parent who paid $14.40 for their ticket and embarked from Southampton.
+Rosblom, Mr. Viktor Richard, a 18-year-old male traveling in third class with 1 sibling and 1 parent who paid $20.21 for their ticket and embarked from Southampton.
+Wiseman, Mr. Phillippe, a  male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Clarke, Mrs. Charles V (Ada Maria Winfield), a 28-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Phillips, Miss. Kate Florence ("Mrs Kate Louise Phillips Marshall"), a 19-year-old female traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Flynn, Mr. James, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Pickard, Mr. Berk (Berk Trembisky), a 32-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Bjornstrom-Steffansson, Mr. Mauritz Hakan, a 28-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Thorneycroft, Mrs. Percival (Florence Kate White), a  female traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Louch, Mrs. Charles Alexander (Alice Adelaide Slow), a 42-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Kallio, Mr. Nikolai Erland, a 17-year-old male traveling in third class who paid $7.12 for their ticket and embarked from Southampton.
+Silvey, Mr. William Baird, a 50-year-old male traveling in first class with 1 sibling who paid $55.90 for their ticket and embarked from Southampton.
+Carter, Miss. Lucile Polk, a 14-year-old female traveling in first class with 1 sibling and 2 parents who paid $120.00 for their ticket and embarked from Southampton.
+Ford, Miss. Doolina Margaret "Daisy", a 21-year-old female traveling in third class with 2 siblings and 2 parents who paid $34.38 for their ticket and embarked from Southampton.
+Richards, Mrs. Sidney (Emily Hocking), a 24-year-old female traveling in second class with 2 siblings and 3 parents who paid $18.75 for their ticket and embarked from Southampton.
+Fortune, Mr. Mark, a 64-year-old male traveling in first class with 1 sibling and 4 parents who paid $263.00 for their ticket and embarked from Southampton.
+Kvillner, Mr. Johan Henrik Johannesson, a 31-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Hart, Mrs. Benjamin (Esther Ada Bloomfield), a 45-year-old female traveling in second class with 1 sibling and 1 parent who paid $26.25 for their ticket and embarked from Southampton.
+Hampe, Mr. Leon, a 20-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Petterson, Mr. Johan Emil, a 25-year-old male traveling in third class with 1 sibling who paid $7.78 for their ticket and embarked from Southampton.
+Reynaldo, Ms. Encarnacion, a 28-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Johannesen-Bratthammer, Mr. Bernt, a  male traveling in third class who paid $8.11 for their ticket and embarked from Southampton.
+Dodge, Master. Washington, a 4-year-old male traveling in first class with 2 parents who paid $81.86 for their ticket and embarked from Southampton.
+Mellinger, Miss. Madeleine Violet, a 13-year-old female traveling in second class with 1 parent who paid $19.50 for their ticket and embarked from Southampton.
+Seward, Mr. Frederic Kimber, a 34-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Baclini, Miss. Marie Catherine, a 5-year-old female traveling in third class with 2 siblings and 1 parent who paid $19.26 for their ticket and embarked from Cherbourg.
+Peuchen, Major. Arthur Godfrey, a 52-year-old male traveling in first class who paid $30.50 for their ticket and embarked from Southampton.
+West, Mr. Edwy Arthur, a 36-year-old male traveling in second class with 1 sibling and 2 parents who paid $27.75 for their ticket and embarked from Southampton.
+Hagland, Mr. Ingvald Olai Olsen, a  male traveling in third class with 1 sibling who paid $19.97 for their ticket and embarked from Southampton.
+Foreman, Mr. Benjamin Laventall, a 30-year-old male traveling in first class who paid $27.75 for their ticket and embarked from Cherbourg.
+Goldenberg, Mr. Samuel L, a 49-year-old male traveling in first class with 1 sibling who paid $89.10 for their ticket and embarked from Cherbourg.
+Peduzzi, Mr. Joseph, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Jalsevac, Mr. Ivan, a 29-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Cherbourg.
+Millet, Mr. Francis Davis, a 65-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Kenyon, Mrs. Frederick R (Marion), a  female traveling in first class with 1 sibling who paid $51.86 for their ticket and embarked from Southampton.
+Toomey, Miss. Ellen, a 50-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+O'Connor, Mr. Maurice, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Anderson, Mr. Harry, a 48-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Morley, Mr. William, a 34-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Gee, Mr. Arthur H, a 47-year-old male traveling in first class who paid $38.50 for their ticket and embarked from Southampton.
+Milling, Mr. Jacob Christian, a 48-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Maisner, Mr. Simon, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Goncalves, Mr. Manuel Estanslas, a 38-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Campbell, Mr. William, a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Smart, Mr. John Montgomery, a 56-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Scanlan, Mr. James, a  male traveling in third class who paid $7.72 for their ticket and embarked from Queenstown.
+Baclini, Miss. Helene Barbara, a 0-year-old female traveling in third class with 2 siblings and 1 parent who paid $19.26 for their ticket and embarked from Cherbourg.
+Keefe, Mr. Arthur, a  male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Cacic, Mr. Luka, a 38-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+West, Mrs. Edwy Arthur (Ada Mary Worth), a 33-year-old female traveling in second class with 1 sibling and 2 parents who paid $27.75 for their ticket and embarked from Southampton.
+Jerwan, Mrs. Amin S (Marie Marthe Thuillard), a 23-year-old female traveling in second class who paid $13.79 for their ticket and embarked from Cherbourg.
+Strandberg, Miss. Ida Sofia, a 22-year-old female traveling in third class who paid $9.84 for their ticket and embarked from Southampton.
+Clifford, Mr. George Quincy, a  male traveling in first class who paid $52.00 for their ticket and embarked from Southampton.
+Renouf, Mr. Peter Henry, a 34-year-old male traveling in second class with 1 sibling who paid $21.00 for their ticket and embarked from Southampton.
+Braund, Mr. Lewis Richard, a 29-year-old male traveling in third class with 1 sibling who paid $7.05 for their ticket and embarked from Southampton.
+Karlsson, Mr. Nils August, a 22-year-old male traveling in third class who paid $7.52 for their ticket and embarked from Southampton.
+Hirvonen, Miss. Hildur E, a 2-year-old female traveling in third class with 1 parent who paid $12.29 for their ticket and embarked from Southampton.
+Goodwin, Master. Harold Victor, a 9-year-old male traveling in third class with 5 siblings and 2 parents who paid $46.90 for their ticket and embarked from Southampton.
+Frost, Mr. Anthony Wood "Archie", a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Rouse, Mr. Richard Henry, a 50-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Turkula, Mrs. (Hedwig), a 63-year-old female traveling in third class who paid $9.59 for their ticket and embarked from Southampton.
+Bishop, Mr. Dickinson H, a 25-year-old male traveling in first class with 1 sibling who paid $91.08 for their ticket and embarked from Cherbourg.
+Lefebre, Miss. Jeannie, a  female traveling in third class with 3 siblings and 1 parent who paid $25.47 for their ticket and embarked from Southampton.
+Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby), a 35-year-old female traveling in first class with 1 sibling who paid $90.00 for their ticket and embarked from Southampton.
+Kent, Mr. Edward Austin, a 58-year-old male traveling in first class who paid $29.70 for their ticket and embarked from Cherbourg.
+Somerton, Mr. Francis William, a 30-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Coutts, Master. Eden Leslie "Neville", a 9-year-old male traveling in third class with 1 sibling and 1 parent who paid $15.90 for their ticket and embarked from Southampton.
+Hagland, Mr. Konrad Mathias Reiersen, a  male traveling in third class with 1 sibling who paid $19.97 for their ticket and embarked from Southampton.
+Windelov, Mr. Einar, a 21-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Molson, Mr. Harry Markland, a 55-year-old male traveling in first class who paid $30.50 for their ticket and embarked from Southampton.
+Artagaveytia, Mr. Ramon, a 71-year-old male traveling in first class who paid $49.50 for their ticket and embarked from Cherbourg.
+Stanley, Mr. Edward Roland, a 21-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Yousseff, Mr. Gerious, a  male traveling in third class who paid $14.46 for their ticket and embarked from Cherbourg.
+Eustis, Miss. Elizabeth Mussey, a 54-year-old female traveling in first class with 1 sibling who paid $78.27 for their ticket and embarked from Cherbourg.
+Shellard, Mr. Frederick William, a  male traveling in third class who paid $15.10 for their ticket and embarked from Southampton.
+Allison, Mrs. Hudson J C (Bessie Waldo Daniels), a 25-year-old female traveling in first class with 1 sibling and 2 parents who paid $151.55 for their ticket and embarked from Southampton.
+Svensson, Mr. Olof, a 24-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Calic, Mr. Petar, a 17-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Canavan, Miss. Mary, a 21-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+O'Sullivan, Miss. Bridget Mary, a  female traveling in third class who paid $7.63 for their ticket and embarked from Queenstown.
+Laitinen, Miss. Kristina Sofia, a 37-year-old female traveling in third class who paid $9.59 for their ticket and embarked from Southampton.
+Maioni, Miss. Roberta, a 16-year-old female traveling in first class who paid $86.50 for their ticket and embarked from Southampton.
+Penasco y Castellana, Mr. Victor de Satode, a 18-year-old male traveling in first class with 1 sibling who paid $108.90 for their ticket and embarked from Cherbourg.
+Quick, Mrs. Frederick Charles (Jane Richards), a 33-year-old female traveling in second class with 2 parents who paid $26.00 for their ticket and embarked from Southampton.
+Bradley, Mr. George ("George Arthur Brayton"), a  male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Olsen, Mr. Henry Margido, a 28-year-old male traveling in third class who paid $22.52 for their ticket and embarked from Southampton.
+Lang, Mr. Fang, a 26-year-old male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Daly, Mr. Eugene Patrick, a 29-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Webber, Mr. James, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+McGough, Mr. James Robert, a 36-year-old male traveling in first class who paid $26.29 for their ticket and embarked from Southampton.
+Rothschild, Mrs. Martin (Elizabeth L. Barrett), a 54-year-old female traveling in first class with 1 sibling who paid $59.40 for their ticket and embarked from Cherbourg.
+Coleff, Mr. Satio, a 24-year-old male traveling in third class who paid $7.50 for their ticket and embarked from Southampton.
+Walker, Mr. William Anderson, a 47-year-old male traveling in first class who paid $34.02 for their ticket and embarked from Southampton.
+Lemore, Mrs. (Amelia Milley), a 34-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Ryan, Mr. Patrick, a  male traveling in third class who paid $24.15 for their ticket and embarked from Queenstown.
+Angle, Mrs. William A (Florence "Mary" Agnes Hughes), a 36-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Pavlovic, Mr. Stefo, a 32-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Perreault, Miss. Anne, a 30-year-old female traveling in first class who paid $93.50 for their ticket and embarked from Southampton.
+Vovk, Mr. Janko, a 22-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Lahoud, Mr. Sarkis, a  male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Hippach, Mrs. Louis Albert (Ida Sophia Fischer), a 44-year-old female traveling in first class with 1 parent who paid $57.98 for their ticket and embarked from Cherbourg.
+Kassem, Mr. Fared, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Farrell, Mr. James, a 40-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Ridsdale, Miss. Lucy, a 50-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Farthing, Mr. John, a  male traveling in first class who paid $221.78 for their ticket and embarked from Southampton.
+Salonen, Mr. Johan Werner, a 39-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Hocking, Mr. Richard George, a 23-year-old male traveling in second class with 2 siblings and 1 parent who paid $11.50 for their ticket and embarked from Southampton.
+Quick, Miss. Phyllis May, a 2-year-old female traveling in second class with 1 sibling and 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Toufik, Mr. Nakli, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Elias, Mr. Joseph Jr, a 17-year-old male traveling in third class with 1 sibling and 1 parent who paid $7.23 for their ticket and embarked from Cherbourg.
+Peter, Mrs. Catherine (Catherine Rizk), a  female traveling in third class with 2 parents who paid $22.36 for their ticket and embarked from Cherbourg.
+Cacic, Miss. Marija, a 30-year-old female traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Hart, Miss. Eva Miriam, a 7-year-old female traveling in second class with 2 parents who paid $26.25 for their ticket and embarked from Southampton.
+Butt, Major. Archibald Willingham, a 45-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+LeRoy, Miss. Bertha, a 30-year-old female traveling in first class who paid $106.42 for their ticket and embarked from Cherbourg.
+Risien, Mr. Samuel Beard, a  male traveling in third class who paid $14.50 for their ticket and embarked from Southampton.
+Frolicher, Miss. Hedwig Margaritha, a 22-year-old female traveling in first class with 2 parents who paid $49.50 for their ticket and embarked from Cherbourg.
+Crosby, Miss. Harriet R, a 36-year-old female traveling in first class with 2 parents who paid $71.00 for their ticket and embarked from Southampton.
+Andersson, Miss. Ingeborg Constanzia, a 9-year-old female traveling in third class with 4 siblings and 2 parents who paid $31.27 for their ticket and embarked from Southampton.
+Andersson, Miss. Sigrid Elisabeth, a 11-year-old female traveling in third class with 4 siblings and 2 parents who paid $31.27 for their ticket and embarked from Southampton.
+Beane, Mr. Edward, a 32-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Douglas, Mr. Walter Donald, a 50-year-old male traveling in first class with 1 sibling who paid $106.42 for their ticket and embarked from Cherbourg.
+Nicholson, Mr. Arthur Ernest, a 64-year-old male traveling in first class who paid $26.00 for their ticket and embarked from Southampton.
+Beane, Mrs. Edward (Ethel Clarke), a 19-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Padro y Manent, Mr. Julian, a  male traveling in second class who paid $13.86 for their ticket and embarked from Cherbourg.
+Goldsmith, Mr. Frank John, a 33-year-old male traveling in third class with 1 sibling and 1 parent who paid $20.52 for their ticket and embarked from Southampton.
+Davies, Master. John Morgan Jr, a 8-year-old male traveling in second class with 1 sibling and 1 parent who paid $36.75 for their ticket and embarked from Southampton.
+Thayer, Mr. John Borland Jr, a 17-year-old male traveling in first class with 2 parents who paid $110.88 for their ticket and embarked from Cherbourg.
+Sharp, Mr. Percival James R, a 27-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+O'Brien, Mr. Timothy, a  male traveling in third class who paid $7.83 for their ticket and embarked from Queenstown.
+Leeni, Mr. Fahim ("Philip Zenni"), a 22-year-old male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Ohman, Miss. Velin, a 22-year-old female traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Wright, Mr. George, a 62-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Duff Gordon, Lady. (Lucille Christiana Sutherland) ("Mrs Morgan"), a 48-year-old female traveling in first class with 1 sibling who paid $39.60 for their ticket and embarked from Cherbourg.
+Robbins, Mr. Victor, a  male traveling in first class who paid $227.53 for their ticket and embarked from Cherbourg.
+Taussig, Mrs. Emil (Tillie Mandelbaum), a 39-year-old female traveling in first class with 1 sibling and 1 parent who paid $79.65 for their ticket and embarked from Southampton.
+de Messemaeker, Mrs. Guillaume Joseph (Emma), a 36-year-old female traveling in third class with 1 sibling who paid $17.40 for their ticket and embarked from Southampton.
+Morrow, Mr. Thomas Rowan, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Sivic, Mr. Husein, a 40-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Norman, Mr. Robert Douglas, a 28-year-old male traveling in second class who paid $13.50 for their ticket and embarked from Southampton.
+Simmons, Mr. John, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Meanwell, Miss. (Marion Ogden), a  female traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Davies, Mr. Alfred J, a 24-year-old male traveling in third class with 2 siblings who paid $24.15 for their ticket and embarked from Southampton.
+Stoytcheff, Mr. Ilia, a 19-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Palsson, Mrs. Nils (Alma Cornelia Berglund), a 29-year-old female traveling in third class with 4 parents who paid $21.07 for their ticket and embarked from Southampton.
+Doharr, Mr. Tannous, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Jonsson, Mr. Carl, a 32-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Harris, Mr. George, a 62-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Appleton, Mrs. Edward Dale (Charlotte Lamson), a 53-year-old female traveling in first class with 2 siblings who paid $51.48 for their ticket and embarked from Southampton.
+Flynn, Mr. John Irwin ("Irving"), a 36-year-old male traveling in first class who paid $26.39 for their ticket and embarked from Southampton.
+Kelly, Miss. Mary, a  female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Rush, Mr. Alfred George John, a 16-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Patchett, Mr. George, a 19-year-old male traveling in third class who paid $14.50 for their ticket and embarked from Southampton.
+Garside, Miss. Ethel, a 34-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Silvey, Mrs. William Baird (Alice Munger), a 39-year-old female traveling in first class with 1 sibling who paid $55.90 for their ticket and embarked from Southampton.
+Caram, Mrs. Joseph (Maria Elias), a  female traveling in third class with 1 sibling who paid $14.46 for their ticket and embarked from Cherbourg.
+Jussila, Mr. Eiriik, a 32-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Christy, Miss. Julie Rachel, a 25-year-old female traveling in second class with 1 sibling and 1 parent who paid $30.00 for their ticket and embarked from Southampton.
+Thayer, Mrs. John Borland (Marian Longstreth Morris), a 39-year-old female traveling in first class with 1 sibling and 1 parent who paid $110.88 for their ticket and embarked from Cherbourg.
+Downton, Mr. William James, a 54-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Ross, Mr. John Hugo, a 36-year-old male traveling in first class who paid $40.12 for their ticket and embarked from Cherbourg.
+Paulner, Mr. Uscher, a  male traveling in third class who paid $8.71 for their ticket and embarked from Cherbourg.
+Taussig, Miss. Ruth, a 18-year-old female traveling in first class with 2 parents who paid $79.65 for their ticket and embarked from Southampton.
+Jarvis, Mr. John Denzil, a 47-year-old male traveling in second class who paid $15.00 for their ticket and embarked from Southampton.
+Frolicher-Stehli, Mr. Maxmillian, a 60-year-old male traveling in first class with 1 sibling and 1 parent who paid $79.20 for their ticket and embarked from Cherbourg.
+Gilinski, Mr. Eliezer, a 22-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Murdlin, Mr. Joseph, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Rintamaki, Mr. Matti, a 35-year-old male traveling in third class who paid $7.12 for their ticket and embarked from Southampton.
+Stephenson, Mrs. Walter Bertram (Martha Eustis), a 52-year-old female traveling in first class with 1 sibling who paid $78.27 for their ticket and embarked from Cherbourg.
+Elsbury, Mr. William James, a 47-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Bourke, Miss. Mary, a  female traveling in third class with 2 parents who paid $7.75 for their ticket and embarked from Queenstown.
+Chapman, Mr. John Henry, a 37-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Van Impe, Mr. Jean Baptiste, a 36-year-old male traveling in third class with 1 sibling and 1 parent who paid $24.15 for their ticket and embarked from Southampton.
+Leitch, Miss. Jessie Wills, a  female traveling in second class who paid $33.00 for their ticket and embarked from Southampton.
+Johnson, Mr. Alfred, a 49-year-old male traveling in third class who paid $0.00 for their ticket and embarked from Southampton.
+Boulos, Mr. Hanna, a  male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Duff Gordon, Sir. Cosmo Edmund ("Mr Morgan"), a 49-year-old male traveling in first class with 1 sibling who paid $56.93 for their ticket and embarked from Cherbourg.
+Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy), a 24-year-old female traveling in second class with 2 siblings and 1 parent who paid $27.00 for their ticket and embarked from Southampton.
+Slabenoff, Mr. Petco, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Harrington, Mr. Charles H, a  male traveling in first class who paid $42.40 for their ticket and embarked from Southampton.
+Torber, Mr. Ernst William, a 44-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Homer, Mr. Harry ("Mr E Haven"), a 35-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Cherbourg.
+Lindell, Mr. Edvard Bengtsson, a 36-year-old male traveling in third class with 1 sibling who paid $15.55 for their ticket and embarked from Southampton.
+Karaic, Mr. Milan, a 30-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Daniel, Mr. Robert Williams, a 27-year-old male traveling in first class who paid $30.50 for their ticket and embarked from Southampton.
+Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue), a 22-year-old female traveling in second class with 1 sibling and 2 parents who paid $41.58 for their ticket and embarked from Cherbourg.
+Shutes, Miss. Elizabeth W, a 40-year-old female traveling in first class who paid $153.46 for their ticket and embarked from Southampton.
+Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren), a 39-year-old female traveling in third class with 1 sibling and 5 parents who paid $31.27 for their ticket and embarked from Southampton.
+Jardin, Mr. Jose Neto, a  male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Murphy, Miss. Margaret Jane, a  female traveling in third class with 1 sibling who paid $15.50 for their ticket and embarked from Queenstown.
+Horgan, Mr. John, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Brocklebank, Mr. William Alfred, a 35-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Herman, Miss. Alice, a 24-year-old female traveling in second class with 1 sibling and 2 parents who paid $65.00 for their ticket and embarked from Southampton.
+Danbom, Mr. Ernst Gilbert, a 34-year-old male traveling in third class with 1 sibling and 1 parent who paid $14.40 for their ticket and embarked from Southampton.
+Lobb, Mrs. William Arthur (Cordelia K Stanlick), a 26-year-old female traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Becker, Miss. Marion Louise, a 4-year-old female traveling in second class with 2 siblings and 1 parent who paid $39.00 for their ticket and embarked from Southampton.
+Gavey, Mr. Lawrence, a 26-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Yasbeck, Mr. Antoni, a 27-year-old male traveling in third class with 1 sibling who paid $14.45 for their ticket and embarked from Cherbourg.
+Kimball, Mr. Edwin Nelson Jr, a 42-year-old male traveling in first class with 1 sibling who paid $52.55 for their ticket and embarked from Southampton.
+Nakid, Mr. Sahid, a 20-year-old male traveling in third class with 1 sibling and 1 parent who paid $15.74 for their ticket and embarked from Cherbourg.
+Hansen, Mr. Henry Damsgaard, a 21-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Bowen, Mr. David John "Dai", a 21-year-old male traveling in third class who paid $16.10 for their ticket and embarked from Southampton.
+Sutton, Mr. Frederick, a 61-year-old male traveling in first class who paid $32.32 for their ticket and embarked from Southampton.
+Kirkland, Rev. Charles Leonard, a 57-year-old male traveling in second class who paid $12.35 for their ticket and embarked from Queenstown.
+Longley, Miss. Gretchen Fiske, a 21-year-old female traveling in first class who paid $77.96 for their ticket and embarked from Southampton.
+Bostandyeff, Mr. Guentcho, a 26-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+O'Connell, Mr. Patrick D, a  male traveling in third class who paid $7.73 for their ticket and embarked from Queenstown.
+Barkworth, Mr. Algernon Henry Wilson, a 80-year-old male traveling in first class who paid $30.00 for their ticket and embarked from Southampton.
+Lundahl, Mr. Johan Svensson, a 51-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Stahelin-Maeglin, Dr. Max, a 32-year-old male traveling in first class who paid $30.50 for their ticket and embarked from Cherbourg.
+Parr, Mr. William Henry Marsh, a  male traveling in first class who paid $0.00 for their ticket and embarked from Southampton.
+Skoog, Miss. Mabel, a 9-year-old female traveling in third class with 3 siblings and 2 parents who paid $27.90 for their ticket and embarked from Southampton.
+Davis, Miss. Mary, a 28-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Leinonen, Mr. Antti Gustaf, a 32-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Collyer, Mr. Harvey, a 31-year-old male traveling in second class with 1 sibling and 1 parent who paid $26.25 for their ticket and embarked from Southampton.
+Panula, Mrs. Juha (Maria Emilia Ojala), a 41-year-old female traveling in third class with 5 parents who paid $39.69 for their ticket and embarked from Southampton.
+Thorneycroft, Mr. Percival, a  male traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Jensen, Mr. Hans Peder, a 20-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Sagesser, Mlle. Emma, a 24-year-old female traveling in first class who paid $69.30 for their ticket and embarked from Cherbourg.
+Skoog, Miss. Margit Elizabeth, a 2-year-old female traveling in third class with 3 siblings and 2 parents who paid $27.90 for their ticket and embarked from Southampton.
+Foo, Mr. Choong, a  male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Baclini, Miss. Eugenie, a 0-year-old female traveling in third class with 2 siblings and 1 parent who paid $19.26 for their ticket and embarked from Cherbourg.
+Harper, Mr. Henry Sleeper, a 48-year-old male traveling in first class with 1 sibling who paid $76.73 for their ticket and embarked from Cherbourg.
+Cor, Mr. Liudevit, a 19-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Simonius-Blumer, Col. Oberst Alfons, a 56-year-old male traveling in first class who paid $35.50 for their ticket and embarked from Cherbourg.
+Willey, Mr. Edward, a  male traveling in third class who paid $7.55 for their ticket and embarked from Southampton.
+Stanley, Miss. Amy Zillah Elsie, a 23-year-old female traveling in third class who paid $7.55 for their ticket and embarked from Southampton.
+Mitkoff, Mr. Mito, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Doling, Miss. Elsie, a 18-year-old female traveling in second class with 1 parent who paid $23.00 for their ticket and embarked from Southampton.
+Kalvik, Mr. Johannes Halvorsen, a 21-year-old male traveling in third class who paid $8.43 for their ticket and embarked from Southampton.
+O'Leary, Miss. Hanora "Norah", a  female traveling in third class who paid $7.83 for their ticket and embarked from Queenstown.
+Hegarty, Miss. Hanora "Nora", a 18-year-old female traveling in third class who paid $6.75 for their ticket and embarked from Queenstown.
+Hickman, Mr. Leonard Mark, a 24-year-old male traveling in second class with 2 siblings who paid $73.50 for their ticket and embarked from Southampton.
+Radeff, Mr. Alexander, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Bourke, Mrs. John (Catherine), a 32-year-old female traveling in third class with 1 sibling and 1 parent who paid $15.50 for their ticket and embarked from Queenstown.
+Eitemiller, Mr. George Floyd, a 23-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Newell, Mr. Arthur Webster, a 58-year-old male traveling in first class with 2 parents who paid $113.28 for their ticket and embarked from Cherbourg.
+Frauenthal, Dr. Henry William, a 50-year-old male traveling in first class with 2 siblings who paid $133.65 for their ticket and embarked from Southampton.
+Badt, Mr. Mohamed, a 40-year-old male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Colley, Mr. Edward Pomeroy, a 47-year-old male traveling in first class who paid $25.59 for their ticket and embarked from Southampton.
+Coleff, Mr. Peju, a 36-year-old male traveling in third class who paid $7.50 for their ticket and embarked from Southampton.
+Lindqvist, Mr. Eino William, a 20-year-old male traveling in third class with 1 sibling who paid $7.92 for their ticket and embarked from Southampton.
+Hickman, Mr. Lewis, a 32-year-old male traveling in second class with 2 siblings who paid $73.50 for their ticket and embarked from Southampton.
+Butler, Mr. Reginald Fenton, a 25-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Rommetvedt, Mr. Knud Paust, a  male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Cook, Mr. Jacob, a 43-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright), a  female traveling in first class with 1 sibling who paid $52.00 for their ticket and embarked from Southampton.
+Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford), a 40-year-old female traveling in second class with 1 sibling and 1 parent who paid $39.00 for their ticket and embarked from Southampton.
+Davidson, Mr. Thornton, a 31-year-old male traveling in first class with 1 sibling who paid $52.00 for their ticket and embarked from Southampton.
+Mitchell, Mr. Henry Michael, a 70-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Wilhelms, Mr. Charles, a 31-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Watson, Mr. Ennis Hastings, a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Edvardsson, Mr. Gustaf Hjalmar, a 18-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Sawyer, Mr. Frederick Charles, a 24-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Turja, Miss. Anna Sofia, a 18-year-old female traveling in third class who paid $9.84 for their ticket and embarked from Southampton.
+Goodwin, Mrs. Frederick (Augusta Tyler), a 43-year-old female traveling in third class with 1 sibling and 6 parents who paid $46.90 for their ticket and embarked from Southampton.
+Cardeza, Mr. Thomas Drake Martinez, a 36-year-old male traveling in first class with 1 parent who paid $512.33 for their ticket and embarked from Cherbourg.
+Peters, Miss. Katie, a  female traveling in third class who paid $8.14 for their ticket and embarked from Queenstown.
+Hassab, Mr. Hammad, a 27-year-old male traveling in first class who paid $76.73 for their ticket and embarked from Cherbourg.
+Olsvigen, Mr. Thor Anderson, a 20-year-old male traveling in third class who paid $9.22 for their ticket and embarked from Southampton.
+Goodwin, Mr. Charles Edward, a 14-year-old male traveling in third class with 5 siblings and 2 parents who paid $46.90 for their ticket and embarked from Southampton.
+Brown, Mr. Thomas William Solomon, a 60-year-old male traveling in second class with 1 sibling and 1 parent who paid $39.00 for their ticket and embarked from Southampton.
+Laroche, Mr. Joseph Philippe Lemercier, a 25-year-old male traveling in second class with 1 sibling and 2 parents who paid $41.58 for their ticket and embarked from Cherbourg.
+Panula, Mr. Jaako Arnold, a 14-year-old male traveling in third class with 4 siblings and 1 parent who paid $39.69 for their ticket and embarked from Southampton.
+Dakic, Mr. Branko, a 19-year-old male traveling in third class who paid $10.17 for their ticket and embarked from Southampton.
+Fischer, Mr. Eberhard Thelander, a 18-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Madill, Miss. Georgette Alexandra, a 15-year-old female traveling in first class with 1 parent who paid $211.34 for their ticket and embarked from Southampton.
+Dick, Mr. Albert Adrian, a 31-year-old male traveling in first class with 1 sibling who paid $57.00 for their ticket and embarked from Southampton.
+Karun, Miss. Manca, a 4-year-old female traveling in third class with 1 parent who paid $13.42 for their ticket and embarked from Cherbourg.
+Lam, Mr. Ali, a  male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Saad, Mr. Khalil, a 25-year-old male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Weir, Col. John, a 60-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Chapman, Mr. Charles Henry, a 52-year-old male traveling in second class who paid $13.50 for their ticket and embarked from Southampton.
+Kelly, Mr. James, a 44-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Mullens, Miss. Katherine "Katie", a  female traveling in third class who paid $7.73 for their ticket and embarked from Queenstown.
+Thayer, Mr. John Borland, a 49-year-old male traveling in first class with 1 sibling and 1 parent who paid $110.88 for their ticket and embarked from Cherbourg.
+Humblen, Mr. Adolf Mathias Nicolai Olsen, a 42-year-old male traveling in third class who paid $7.65 for their ticket and embarked from Southampton.
+Astor, Mrs. John Jacob (Madeleine Talmadge Force), a 18-year-old female traveling in first class with 1 sibling who paid $227.53 for their ticket and embarked from Cherbourg.
+Silverthorne, Mr. Spencer Victor, a 35-year-old male traveling in first class who paid $26.29 for their ticket and embarked from Southampton.
+Barbara, Miss. Saiide, a 18-year-old female traveling in third class with 1 parent who paid $14.45 for their ticket and embarked from Cherbourg.
+Gallagher, Mr. Martin, a 25-year-old male traveling in third class who paid $7.74 for their ticket and embarked from Queenstown.
+Hansen, Mr. Henrik Juul, a 26-year-old male traveling in third class with 1 sibling who paid $7.85 for their ticket and embarked from Southampton.
+Morley, Mr. Henry Samuel ("Mr Henry Marshall"), a 39-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Kelly, Mrs. Florence "Fannie", a 45-year-old female traveling in second class who paid $13.50 for their ticket and embarked from Southampton.
+Calderhead, Mr. Edward Pennington, a 42-year-old male traveling in first class who paid $26.29 for their ticket and embarked from Southampton.
+Cleaver, Miss. Alice, a 22-year-old female traveling in first class who paid $151.55 for their ticket and embarked from Southampton.
+Moubarek, Master. Halim Gonios ("William George"), a  male traveling in third class with 1 sibling and 1 parent who paid $15.25 for their ticket and embarked from Cherbourg.
+Mayne, Mlle. Berthe Antonine ("Mrs de Villiers"), a 24-year-old female traveling in first class who paid $49.50 for their ticket and embarked from Cherbourg.
+Klaber, Mr. Herman, a  male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Taylor, Mr. Elmer Zebley, a 48-year-old male traveling in first class with 1 sibling who paid $52.00 for their ticket and embarked from Southampton.
+Larsson, Mr. August Viktor, a 29-year-old male traveling in third class who paid $9.48 for their ticket and embarked from Southampton.
+Greenberg, Mr. Samuel, a 52-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Soholt, Mr. Peter Andreas Lauritz Andersen, a 19-year-old male traveling in third class who paid $7.65 for their ticket and embarked from Southampton.
+Endres, Miss. Caroline Louise, a 38-year-old female traveling in first class who paid $227.53 for their ticket and embarked from Cherbourg.
+Troutt, Miss. Edwina Celia "Winnie", a 27-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+McEvoy, Mr. Michael, a  male traveling in third class who paid $15.50 for their ticket and embarked from Queenstown.
+Johnson, Mr. Malkolm Joackim, a 33-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Harper, Miss. Annie Jessie "Nina", a 6-year-old female traveling in second class with 1 parent who paid $33.00 for their ticket and embarked from Southampton.
+Jensen, Mr. Svend Lauritz, a 17-year-old male traveling in third class with 1 sibling who paid $7.05 for their ticket and embarked from Southampton.
+Gillespie, Mr. William Henry, a 34-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Hodges, Mr. Henry Price, a 50-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Chambers, Mr. Norman Campbell, a 27-year-old male traveling in first class with 1 sibling who paid $53.10 for their ticket and embarked from Southampton.
+Oreskovic, Mr. Luka, a 20-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Renouf, Mrs. Peter Henry (Lillian Jefferys), a 30-year-old female traveling in second class with 3 siblings who paid $21.00 for their ticket and embarked from Southampton.
+Mannion, Miss. Margareth, a  female traveling in third class who paid $7.74 for their ticket and embarked from Queenstown.
+Bryhl, Mr. Kurt Arnold Gottfrid, a 25-year-old male traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Ilmakangas, Miss. Pieta Sofia, a 25-year-old female traveling in third class with 1 sibling who paid $7.92 for their ticket and embarked from Southampton.
+Allen, Miss. Elisabeth Walton, a 29-year-old female traveling in first class who paid $211.34 for their ticket and embarked from Southampton.
+Hassan, Mr. Houssein G N, a 11-year-old male traveling in third class who paid $18.79 for their ticket and embarked from Cherbourg.
+Knight, Mr. Robert J, a  male traveling in second class who paid $0.00 for their ticket and embarked from Southampton.
+Berriman, Mr. William John, a 23-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Troupiansky, Mr. Moses Aaron, a 23-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Williams, Mr. Leslie, a 28-year-old male traveling in third class who paid $16.10 for their ticket and embarked from Southampton.
+Ford, Mrs. Edward (Margaret Ann Watson), a 48-year-old female traveling in third class with 1 sibling and 3 parents who paid $34.38 for their ticket and embarked from Southampton.
+Lesurer, Mr. Gustave J, a 35-year-old male traveling in first class who paid $512.33 for their ticket and embarked from Cherbourg.
+Ivanoff, Mr. Kanio, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Nankoff, Mr. Minko, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Hawksford, Mr. Walter James, a  male traveling in first class who paid $30.00 for their ticket and embarked from Southampton.
+Cavendish, Mr. Tyrell William, a 36-year-old male traveling in first class with 1 sibling who paid $78.85 for their ticket and embarked from Southampton.
+Ryerson, Miss. Susan Parker "Suzette", a 21-year-old female traveling in first class with 2 siblings and 2 parents who paid $262.38 for their ticket and embarked from Cherbourg.
+McNamee, Mr. Neal, a 24-year-old male traveling in third class with 1 sibling who paid $16.10 for their ticket and embarked from Southampton.
+Stranden, Mr. Juho, a 31-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Crosby, Capt. Edward Gifford, a 70-year-old male traveling in first class with 1 sibling and 1 parent who paid $71.00 for their ticket and embarked from Southampton.
+Abbott, Mr. Rossmore Edward, a 16-year-old male traveling in third class with 1 sibling and 1 parent who paid $20.25 for their ticket and embarked from Southampton.
+Sinkkonen, Miss. Anna, a 30-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Marvin, Mr. Daniel Warner, a 19-year-old male traveling in first class with 1 sibling who paid $53.10 for their ticket and embarked from Southampton.
+Connaghton, Mr. Michael, a 31-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Wells, Miss. Joan, a 4-year-old female traveling in second class with 1 sibling and 1 parent who paid $23.00 for their ticket and embarked from Southampton.
+Moor, Master. Meier, a 6-year-old male traveling in third class with 1 parent who paid $12.47 for their ticket and embarked from Southampton.
+Vande Velde, Mr. Johannes Joseph, a 33-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Jonkoff, Mr. Lalio, a 23-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Herman, Mrs. Samuel (Jane Laver), a 48-year-old female traveling in second class with 1 sibling and 2 parents who paid $65.00 for their ticket and embarked from Southampton.
+Hamalainen, Master. Viljo, a 0-year-old male traveling in second class with 1 sibling and 1 parent who paid $14.50 for their ticket and embarked from Southampton.
+Carlsson, Mr. August Sigfrid, a 28-year-old male traveling in third class who paid $7.80 for their ticket and embarked from Southampton.
+Bailey, Mr. Percy Andrew, a 18-year-old male traveling in second class who paid $11.50 for their ticket and embarked from Southampton.
+Theobald, Mr. Thomas Leonard, a 34-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards), a 33-year-old female traveling in first class who paid $86.50 for their ticket and embarked from Southampton.
+Garfirth, Mr. John, a  male traveling in third class who paid $14.50 for their ticket and embarked from Southampton.
+Nirva, Mr. Iisakki Antino Aijo, a 41-year-old male traveling in third class who paid $7.12 for their ticket and embarked from Southampton.
+Barah, Mr. Hanna Assi, a 20-year-old male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Carter, Mrs. William Ernest (Lucile Polk), a 36-year-old female traveling in first class with 1 sibling and 2 parents who paid $120.00 for their ticket and embarked from Southampton.
+Eklund, Mr. Hans Linus, a 16-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Hogeboom, Mrs. John C (Anna Andrews), a 51-year-old female traveling in first class with 1 sibling who paid $77.96 for their ticket and embarked from Southampton.
+Brewe, Dr. Arthur Jackson, a  male traveling in first class who paid $39.60 for their ticket and embarked from Cherbourg.
+Mangan, Miss. Mary, a 30-year-old female traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Moran, Mr. Daniel J, a  male traveling in third class with 1 sibling who paid $24.15 for their ticket and embarked from Queenstown.
+Gronnestad, Mr. Daniel Danielsen, a 32-year-old male traveling in third class who paid $8.36 for their ticket and embarked from Southampton.
+Lievens, Mr. Rene Aime, a 24-year-old male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Jensen, Mr. Niels Peder, a 48-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Mack, Mrs. (Mary), a 57-year-old female traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Elias, Mr. Dibo, a  male traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Hocking, Mrs. Elizabeth (Eliza Needs), a 54-year-old female traveling in second class with 1 sibling and 3 parents who paid $23.00 for their ticket and embarked from Southampton.
+Myhrman, Mr. Pehr Fabian Oliver Malkolm, a 18-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Southampton.
+Tobin, Mr. Roger, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Emanuel, Miss. Virginia Ethel, a 5-year-old female traveling in third class who paid $12.47 for their ticket and embarked from Southampton.
+Kilgannon, Mr. Thomas J, a  male traveling in third class who paid $7.74 for their ticket and embarked from Queenstown.
+Robert, Mrs. Edward Scott (Elisabeth Walton McMillan), a 43-year-old female traveling in first class with 1 parent who paid $211.34 for their ticket and embarked from Southampton.
+Ayoub, Miss. Banoura, a 13-year-old female traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Dick, Mrs. Albert Adrian (Vera Gillespie), a 17-year-old female traveling in first class with 1 sibling who paid $57.00 for their ticket and embarked from Southampton.
+Long, Mr. Milton Clyde, a 29-year-old male traveling in first class who paid $30.00 for their ticket and embarked from Southampton.
+Johnston, Mr. Andrew G, a  male traveling in third class with 1 sibling and 2 parents who paid $23.45 for their ticket and embarked from Southampton.
+Ali, Mr. William, a 25-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Harmer, Mr. Abraham (David Lishin), a 25-year-old male traveling in third class who paid $7.25 for their ticket and embarked from Southampton.
+Sjoblom, Miss. Anna Sofia, a 18-year-old female traveling in third class who paid $7.50 for their ticket and embarked from Southampton.
+Rice, Master. George Hugh, a 8-year-old male traveling in third class with 4 siblings and 1 parent who paid $29.12 for their ticket and embarked from Queenstown.
+Dean, Master. Bertram Vere, a 1-year-old male traveling in third class with 1 sibling and 2 parents who paid $20.57 for their ticket and embarked from Southampton.
+Guggenheim, Mr. Benjamin, a 46-year-old male traveling in first class who paid $79.20 for their ticket and embarked from Cherbourg.
+Keane, Mr. Andrew "Andy", a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Gaskell, Mr. Alfred, a 16-year-old male traveling in second class who paid $26.00 for their ticket and embarked from Southampton.
+Sage, Miss. Stella Anna, a  female traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Hoyt, Mr. William Fisher, a  male traveling in first class who paid $30.70 for their ticket and embarked from Cherbourg.
+Dantcheff, Mr. Ristiu, a 25-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Otter, Mr. Richard, a 39-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Leader, Dr. Alice (Farnham), a 49-year-old female traveling in first class who paid $25.93 for their ticket and embarked from Southampton.
+Osman, Mrs. Mara, a 31-year-old female traveling in third class who paid $8.68 for their ticket and embarked from Southampton.
+Ibrahim Shawah, Mr. Yousseff, a 30-year-old male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert), a 30-year-old female traveling in third class with 1 sibling and 1 parent who paid $24.15 for their ticket and embarked from Southampton.
+Ponesell, Mr. Martin, a 34-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Collyer, Mrs. Harvey (Charlotte Annie Tate), a 31-year-old female traveling in second class with 1 sibling and 1 parent who paid $26.25 for their ticket and embarked from Southampton.
+Carter, Master. William Thornton II, a 11-year-old male traveling in first class with 1 sibling and 2 parents who paid $120.00 for their ticket and embarked from Southampton.
+Thomas, Master. Assad Alexander, a 0-year-old male traveling in third class with 1 parent who paid $8.52 for their ticket and embarked from Cherbourg.
+Hedman, Mr. Oskar Arvid, a 27-year-old male traveling in third class who paid $6.97 for their ticket and embarked from Southampton.
+Johansson, Mr. Karl Johan, a 31-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Andrews, Mr. Thomas Jr, a 39-year-old male traveling in first class who paid $0.00 for their ticket and embarked from Southampton.
+Pettersson, Miss. Ellen Natalia, a 18-year-old female traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Meyer, Mr. August, a 39-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Chambers, Mrs. Norman Campbell (Bertha Griggs), a 33-year-old female traveling in first class with 1 sibling who paid $53.10 for their ticket and embarked from Southampton.
+Alexander, Mr. William, a 26-year-old male traveling in third class who paid $7.89 for their ticket and embarked from Southampton.
+Lester, Mr. James, a 39-year-old male traveling in third class who paid $24.15 for their ticket and embarked from Southampton.
+Slemen, Mr. Richard James, a 35-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Andersson, Miss. Ebba Iris Alfrida, a 6-year-old female traveling in third class with 4 siblings and 2 parents who paid $31.27 for their ticket and embarked from Southampton.
+Tomlin, Mr. Ernest Portage, a 30-year-old male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Fry, Mr. Richard, a  male traveling in first class who paid $0.00 for their ticket and embarked from Southampton.
+Heininen, Miss. Wendla Maria, a 23-year-old female traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Mallet, Mr. Albert, a 31-year-old male traveling in second class with 1 sibling and 1 parent who paid $37.00 for their ticket and embarked from Cherbourg.
+Holm, Mr. John Fredrik Alexander, a 43-year-old male traveling in third class who paid $6.45 for their ticket and embarked from Southampton.
+Skoog, Master. Karl Thorsten, a 10-year-old male traveling in third class with 3 siblings and 2 parents who paid $27.90 for their ticket and embarked from Southampton.
+Hays, Mrs. Charles Melville (Clara Jennings Gregg), a 52-year-old female traveling in first class with 1 sibling and 1 parent who paid $93.50 for their ticket and embarked from Southampton.
+Lulic, Mr. Nikola, a 27-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Reuchlin, Jonkheer. John George, a 38-year-old male traveling in first class who paid $0.00 for their ticket and embarked from Southampton.
+Moor, Mrs. (Beila), a 27-year-old female traveling in third class with 1 parent who paid $12.47 for their ticket and embarked from Southampton.
+Panula, Master. Urho Abraham, a 2-year-old male traveling in third class with 4 siblings and 1 parent who paid $39.69 for their ticket and embarked from Southampton.
+Flynn, Mr. John, a  male traveling in third class who paid $6.95 for their ticket and embarked from Queenstown.
+Lam, Mr. Len, a  male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Mallet, Master. Andre, a 1-year-old male traveling in second class with 2 parents who paid $37.00 for their ticket and embarked from Cherbourg.
+McCormack, Mr. Thomas Joseph, a  male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.
+Stone, Mrs. George Nelson (Martha Evelyn), a 62-year-old female traveling in first class who paid $80.00 for their ticket.
+Yasbeck, Mrs. Antoni (Selini Alexander), a 15-year-old female traveling in third class with 1 sibling who paid $14.45 for their ticket and embarked from Cherbourg.
+Richards, Master. George Sibley, a 0-year-old male traveling in second class with 1 sibling and 1 parent who paid $18.75 for their ticket and embarked from Southampton.
+Saad, Mr. Amin, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Augustsson, Mr. Albert, a 23-year-old male traveling in third class who paid $7.85 for their ticket and embarked from Southampton.
+Allum, Mr. Owen George, a 18-year-old male traveling in third class who paid $8.30 for their ticket and embarked from Southampton.
+Compton, Miss. Sara Rebecca, a 39-year-old female traveling in first class with 1 sibling and 1 parent who paid $83.16 for their ticket and embarked from Cherbourg.
+Pasic, Mr. Jakob, a 21-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Sirota, Mr. Maurice, a  male traveling in third class who paid $8.05 for their ticket and embarked from Southampton.
+Chip, Mr. Chang, a 32-year-old male traveling in third class who paid $56.50 for their ticket and embarked from Southampton.
+Marechal, Mr. Pierre, a  male traveling in first class who paid $29.70 for their ticket and embarked from Cherbourg.
+Alhomaki, Mr. Ilmari Rudolf, a 20-year-old male traveling in third class who paid $7.92 for their ticket and embarked from Southampton.
+Mudd, Mr. Thomas Charles, a 16-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Serepeca, Miss. Augusta, a 30-year-old female traveling in first class who paid $31.00 for their ticket and embarked from Cherbourg.
+Lemberopolous, Mr. Peter L, a 34-year-old male traveling in third class who paid $6.44 for their ticket and embarked from Cherbourg.
+Culumovic, Mr. Jeso, a 17-year-old male traveling in third class who paid $8.66 for their ticket and embarked from Southampton.
+Abbing, Mr. Anthony, a 42-year-old male traveling in third class who paid $7.55 for their ticket and embarked from Southampton.
+Sage, Mr. Douglas Bullen, a  male traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Markoff, Mr. Marin, a 35-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Cherbourg.
+Harper, Rev. John, a 28-year-old male traveling in second class with 1 parent who paid $33.00 for their ticket and embarked from Southampton.
+Goldenberg, Mrs. Samuel L (Edwiga Grabowska), a  female traveling in first class with 1 sibling who paid $89.10 for their ticket and embarked from Cherbourg.
+Andersson, Master. Sigvard Harald Elias, a 4-year-old male traveling in third class with 4 siblings and 2 parents who paid $31.27 for their ticket and embarked from Southampton.
+Svensson, Mr. Johan, a 74-year-old male traveling in third class who paid $7.78 for their ticket and embarked from Southampton.
+Boulos, Miss. Nourelain, a 9-year-old female traveling in third class with 1 sibling and 1 parent who paid $15.25 for their ticket and embarked from Cherbourg.
+Lines, Miss. Mary Conover, a 16-year-old female traveling in first class with 1 parent who paid $39.40 for their ticket and embarked from Southampton.
+Carter, Mrs. Ernest Courtenay (Lilian Hughes), a 44-year-old female traveling in second class with 1 sibling who paid $26.00 for their ticket and embarked from Southampton.
+Aks, Mrs. Sam (Leah Rosen), a 18-year-old female traveling in third class with 1 parent who paid $9.35 for their ticket and embarked from Southampton.
+Wick, Mrs. George Dennick (Mary Hitchcock), a 45-year-old female traveling in first class with 1 sibling and 1 parent who paid $164.87 for their ticket and embarked from Southampton.
+Daly, Mr. Peter Denis , a 51-year-old male traveling in first class who paid $26.55 for their ticket and embarked from Southampton.
+Baclini, Mrs. Solomon (Latifa Qurban), a 24-year-old female traveling in third class with 3 parents who paid $19.26 for their ticket and embarked from Cherbourg.
+Razi, Mr. Raihed, a  male traveling in third class who paid $7.23 for their ticket and embarked from Cherbourg.
+Hansen, Mr. Claus Peter, a 41-year-old male traveling in third class with 2 siblings who paid $14.11 for their ticket and embarked from Southampton.
+Giles, Mr. Frederick Edward, a 21-year-old male traveling in second class with 1 sibling who paid $11.50 for their ticket and embarked from Southampton.
+Swift, Mrs. Frederick Joel (Margaret Welles Barron), a 48-year-old female traveling in first class who paid $25.93 for their ticket and embarked from Southampton.
+Sage, Miss. Dorothy Edith "Dolly", a  female traveling in third class with 8 siblings and 2 parents who paid $69.55 for their ticket and embarked from Southampton.
+Gill, Mr. John William, a 24-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Bystrom, Mrs. (Karolina), a 42-year-old female traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Duran y More, Miss. Asuncion, a 27-year-old female traveling in second class with 1 sibling who paid $13.86 for their ticket and embarked from Cherbourg.
+Roebling, Mr. Washington Augustus II, a 31-year-old male traveling in first class who paid $50.50 for their ticket and embarked from Southampton.
+van Melkebeke, Mr. Philemon, a  male traveling in third class who paid $9.50 for their ticket and embarked from Southampton.
+Johnson, Master. Harold Theodor, a 4-year-old male traveling in third class with 1 sibling and 1 parent who paid $11.13 for their ticket and embarked from Southampton.
+Balkic, Mr. Cerin, a 26-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Beckwith, Mrs. Richard Leonard (Sallie Monypeny), a 47-year-old female traveling in first class with 1 sibling and 1 parent who paid $52.55 for their ticket and embarked from Southampton.
+Carlsson, Mr. Frans Olof, a 33-year-old male traveling in first class who paid $5.00 for their ticket and embarked from Southampton.
+Vander Cruyssen, Mr. Victor, a 47-year-old male traveling in third class who paid $9.00 for their ticket and embarked from Southampton.
+Abelson, Mrs. Samuel (Hannah Wizosky), a 28-year-old female traveling in second class with 1 sibling who paid $24.00 for their ticket and embarked from Cherbourg.
+Najib, Miss. Adele Kiamie "Jane", a 15-year-old female traveling in third class who paid $7.22 for their ticket and embarked from Cherbourg.
+Gustafsson, Mr. Alfred Ossian, a 20-year-old male traveling in third class who paid $9.85 for their ticket and embarked from Southampton.
+Petroff, Mr. Nedelio, a 19-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Laleff, Mr. Kristo, a  male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Potter, Mrs. Thomas Jr (Lily Alexenia Wilson), a 56-year-old female traveling in first class with 1 parent who paid $83.16 for their ticket and embarked from Cherbourg.
+Shelley, Mrs. William (Imanita Parrish Hall), a 25-year-old female traveling in second class with 1 parent who paid $26.00 for their ticket and embarked from Southampton.
+Markun, Mr. Johann, a 33-year-old male traveling in third class who paid $7.90 for their ticket and embarked from Southampton.
+Dahlberg, Miss. Gerda Ulrika, a 22-year-old female traveling in third class who paid $10.52 for their ticket and embarked from Southampton.
+Banfield, Mr. Frederick James, a 28-year-old male traveling in second class who paid $10.50 for their ticket and embarked from Southampton.
+Sutehall, Mr. Henry Jr, a 25-year-old male traveling in third class who paid $7.05 for their ticket and embarked from Southampton.
+Rice, Mrs. William (Margaret Norton), a 39-year-old female traveling in third class with 5 parents who paid $29.12 for their ticket and embarked from Queenstown.
+Montvila, Rev. Juozas, a 27-year-old male traveling in second class who paid $13.00 for their ticket and embarked from Southampton.
+Graham, Miss. Margaret Edith, a 19-year-old female traveling in first class who paid $30.00 for their ticket and embarked from Southampton.
+Johnston, Miss. Catherine Helen "Carrie", a  female traveling in third class with 1 sibling and 2 parents who paid $23.45 for their ticket and embarked from Southampton.
+Behr, Mr. Karl Howell, a 26-year-old male traveling in first class who paid $30.00 for their ticket and embarked from Cherbourg.
+Dooley, Mr. Patrick, a 32-year-old male traveling in third class who paid $7.75 for their ticket and embarked from Queenstown.

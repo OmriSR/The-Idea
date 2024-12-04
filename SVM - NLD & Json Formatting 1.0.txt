@@ -1,0 +1,25 @@
+{
+  "New Titanic": [
+    {
+      "Json": [
+        "{\"model params\": {\"C\": 1, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": null, \"best training score\": 0.797665714567123, \"accurcy\": 0.7877777777777778, \"f1\": 0.7320561941251595}",
+        "{\"model params\": {\"C\": 1, \"gamma\": 1, \"kernel\": \"rbf\"}, \"num of component\": 11, \"best training score\": 0.7851176992022062, \"accurcy\": 0.7990476190476191, \"f1\": 0.7551313628899836}",
+        "{\"model params\": {\"C\": 10, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": 22, \"best training score\": 0.7949276076036639, \"accurcy\": 0.8046031746031745, \"f1\": 0.7689028213166145}"
+      ]
+    },
+    {
+      "Natural Language Description": [
+        "{\"model params\": {\"C\": 0.1, \"gamma\": 0.1, \"kernel\": \"poly\"}, \"num of component\": null, \"best training score\": 0.7934994582881908, \"accurcy\": 0.7877777777777778, \"f1\": 0.7356029921547164}",
+        "{\"model params\": {\"C\": 10, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": 11, \"best training score\": 0.7991234117994681, \"accurcy\": 0.7373015873015873, \"f1\": 0.6622835497835498}",
+        "{\"model params\": {\"C\": 1, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": 22, \"best training score\": 0.7892839554811386, \"accurcy\": 0.7876190476190476, \"f1\": 0.7316285494261023}"
+      ]
+    },
+    {
+      "Hybrid": [
+        "{\"model params\": {\"C\": 0.1, \"gamma\": 0.1, \"kernel\": \"poly\"}, \"num of component\": null, \"best training score\": 0.7934994582881908, \"accurcy\": 0.7877777777777778, \"f1\": 0.7356029921547164}",
+        "{\"model params\": {\"C\": 10, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": 11, \"best training score\": 0.7977248104008667, \"accurcy\": 0.7428571428571429, \"f1\": 0.6670454545454545}",
+        "{\"model params\": {\"C\": 1, \"gamma\": 0.1, \"kernel\": \"rbf\"}, \"num of component\": 22, \"best training score\": 0.7878755047769133, \"accurcy\": 0.7876190476190476, \"f1\": 0.7316285494261023}"
+      ]
+    }
+  ]
+}
