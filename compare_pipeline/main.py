@@ -108,10 +108,7 @@ def create_result_json(grid_search:GridSearchCV, acc_test_cv_scores:List[str], f
     
 
 def generic_flow(X:pd.DataFrame, y:pd.Series, transform_to_str_list_func):
-    """
-    This function runs the generic (row->str wise) flow
-    using SVM and 3 versions of PCA usage 
-    """
+
     number_of_features = X.shape[1]
 
     X_train,X_test,y_train,y_test= train_test_split(X,y,test_size=0.2,random_state=42)
