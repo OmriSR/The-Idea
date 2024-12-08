@@ -31,7 +31,7 @@ def run_knn_with_multiple_k_and_metrics( ks=[3, 5, 7, 9], metrics=["euclidean", 
         else:
             X_reduced = X_embeding
 
-        X_train,X_test,y_train,y_test= train_test_split(X_reduced,new_titanic_y,test_size=0.2,random_state=42)
+        # X_train,X_test,y_train,y_test= train_test_split(X_reduced,new_titanic_y,test_size=0.2,random_state=42)
 
         for k in ks:
             for metric in metrics:
@@ -39,33 +39,28 @@ def run_knn_with_multiple_k_and_metrics( ks=[3, 5, 7, 9], metrics=["euclidean", 
                     
                     # Initialize KNN with the specified number of neighbors and distance metric
                     knn = KNeighborsClassifier(n_neighbors=k, metric=metric)
-                    
-                    # Fit the KNN model on the training data
-                    knn.fit(X_train, y_train)
-                    
-                    # Calac training score to detect overfitting
-                    y_train_pred = knn.predict(X_train)
-                    train_accuracy = accuracy_score(y_train, y_train_pred)
-
                     # Calculate accuracy 
-                    acc_cv_scores = cross_val_score(knn, X_train, y_train, cv=5, scoring='accuracy')
-                    # Calculate F1 score 
-                    f1_cv_scores = cross_val_score(knn, X_train, y_train, cv=5, scoring='f1')
-            
-                    
+                    acc_cv_scores = cross_val_score(knn, X_reduced, new_titanic_y, cv=5, scoring='accuracy')
+                    f1_cv_scores = cross_val_score(knn, X_reduced, new_titanic_y, cv=5, scoring='f1')
+
+
+                    # Fit the KNN model on the training data
+                    # knn.fit(X_train, y_train)
+                    # # Calac training score to detect overfittings
+                    # y_pred = knn.predict(X_test)
+                    # test_accuracy = accuracy_score(y_test, y_pred)
+                    # test_f1 = f1_score(y_test, y_pred)
+
                     # Output results
                     print(f"Accuracy for k={k}, metric={metric}: {acc_cv_scores.mean():.4f}")
-                    print(f"F1 Score for k={k}, metric={metric}: {f1_cv_scores.mean():.4f}")
                     
                     results.append({
                         "k": k,
                         "metric": metric,
                         "comp":comp,
-                        "train_accuracy": train_accuracy,
-                        "accuracy_cv_mean": acc_cv_scores.mean(),
-                        "accuracy": acc_cv_scores.tolist(),
-                        "f1_mean_score":f1_cv_scores.mean(),
-                        "f1_score": f1_cv_scores.tolist()
+                        # "test_accuracy": test_accuracy,
+                        "f1_cv": f1_cv_scores.mean(),
+                        "accuracy_cv": acc_cv_scores.mean(),
                     })
     
     return results
@@ -76,5 +71,5 @@ if __name__ == "__main__":
     # Print out the results for each combination of k and metric
 
     json_res = json.dumps(results)
-    with open("KNN Json Formatting 1.0.txt", 'w') as file:
+    with open("KNN Json Formatting only cross-validation 1.2.txt", 'w') as file:
         file.write(json_res)
